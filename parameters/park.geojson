@@ -1,0 +1,1465 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-03-01T18:48:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/108447516",
+        "created_by": "JOSM",
+        "leisure": "park",
+        "name": "Lower Don Recreational Trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.354544,
+          43.6961347
+        ]
+      },
+      "id": "node/108447516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/147134453",
+        "created_by": "JOSM",
+        "leisure": "park",
+        "name": "Newtonbrook Park",
+        "note": "sign for Newtonbrook Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3954601,
+          43.786175
+        ]
+      },
+      "id": "node/147134453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292767952",
+        "leisure": "park",
+        "name": "Serena Gundy Park",
+        "website": "http://www1.toronto.ca/parks/prd/facilities/complex/26/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3596537,
+          43.7180429
+        ]
+      },
+      "id": "node/292767952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/299290515",
+        "leisure": "park",
+        "name": "Windfields Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3692861,
+          43.7421281
+        ]
+      },
+      "id": "node/299290515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/299296632",
+        "leisure": "park",
+        "name": "Windfields Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3715346,
+          43.7422502
+        ]
+      },
+      "id": "node/299296632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/343288369",
+        "addr:city": "North York",
+        "addr:housenumber": "17",
+        "addr:street": "Anewen Drive",
+        "leisure": "park",
+        "name": "Anewen Greenbelt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3172246,
+          43.7335675
+        ]
+      },
+      "id": "node/343288369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364925801",
+        "addr:housenumber": "11",
+        "addr:street": "Catherine Street",
+        "leisure": "park",
+        "name": "Étienne Brûlé Park",
+        "wikidata": "Q14875147",
+        "wikipedia": "en:Étienne Brûlé Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4903485,
+          43.6519157
+        ]
+      },
+      "id": "node/364925801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364931637",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "99",
+        "addr:street": "Edenbridge Drive",
+        "leisure": "park",
+        "name": "James Gardens",
+        "wikidata": "Q6134485",
+        "wikipedia": "en:James Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5144952,
+          43.6718999
+        ]
+      },
+      "id": "node/364931637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364934335",
+        "leisure": "park",
+        "name": "Scarlett Mills Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5086588,
+          43.679648
+        ]
+      },
+      "id": "node/364934335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364941864",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "95",
+        "addr:street": "Raymore Drive",
+        "leisure": "park",
+        "name": "Ukranian Canadian Memorial Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5114331,
+          43.6846229
+        ]
+      },
+      "id": "node/364941864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364944377",
+        "addr:city": "York",
+        "addr:housenumber": "2325",
+        "addr:street": "Lawrence Avenue West",
+        "leisure": "park",
+        "name": "Weston Lions Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5201794,
+          43.6986162
+        ]
+      },
+      "id": "node/364944377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368144628",
+        "addr:city": "North York",
+        "addr:housenumber": "32",
+        "addr:street": "Dee Avenue",
+        "leisure": "park",
+        "name": "Crawford-Jones Memorial Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5387914,
+          43.7102824
+        ]
+      },
+      "id": "node/368144628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368150111",
+        "leisure": "park",
+        "name": "Humber Arboretum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6188843,
+          43.7304436
+        ]
+      },
+      "id": "node/368150111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368368914",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "2729",
+        "addr:street": "Kipling Avenue",
+        "leisure": "park",
+        "name": "North Kipling Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5859201,
+          43.7525493
+        ]
+      },
+      "id": "node/368368914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/558715498",
+        "attribution": "Natural Resources Canada",
+        "canvec:CODE:1580010": "-1",
+        "canvec:UUID": "46cf70d905fd422bb2d5cb47f2a89420",
+        "leisure": "park",
+        "name": "G Ross Lord Park",
+        "name:fr": "G Ross Lord Park",
+        "source": "CanVec_Import_2009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4629628,
+          43.7764386
+        ]
+      },
+      "id": "node/558715498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/558715701",
+        "attribution": "Natural Resources Canada",
+        "canvec:CODE:1580010": "-1",
+        "canvec:UUID": "f16f304c99bb445cb5cc687297b485ef",
+        "leisure": "park",
+        "name": "Hogdson Park",
+        "name:fr": "Hogdson Park",
+        "source": "CanVec_Import_2009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0594051,
+          43.8837731
+        ]
+      },
+      "id": "node/558715701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/560659879",
+        "leisure": "park",
+        "name": "Cricklewood Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4248144,
+          43.8199692
+        ]
+      },
+      "id": "node/560659879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/808902900",
+        "lamp_type": "access_point",
+        "leisure": "park",
+        "name": "Betty Sutherland Trail Park",
+        "operator": "Gary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3628919,
+          43.7713046
+        ]
+      },
+      "id": "node/808902900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1224160700",
+        "leisure": "park",
+        "name": "near dam",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.19685,
+          43.842251
+        ]
+      },
+      "id": "node/1224160700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1768239611",
+        "leisure": "park",
+        "name": "Nevada Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5030159,
+          43.8909757
+        ]
+      },
+      "id": "node/1768239611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1985067732",
+        "leisure": "park",
+        "name": "Raymore Park",
+        "source": "openstreetbugs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5135316,
+          43.6961763
+        ]
+      },
+      "id": "node/1985067732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1985067836",
+        "leisure": "park",
+        "name": "Weston Lions Park",
+        "source": "openstreetbugs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5156779,
+          43.6977645
+        ]
+      },
+      "id": "node/1985067836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2178501561",
+        "leisure": "park",
+        "name": "Douglas Kennedy Headland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5570772,
+          43.5686345
+        ]
+      },
+      "id": "node/2178501561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2345710336",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "1313",
+        "addr:street": "Islington Avenue",
+        "leisure": "park",
+        "name": "Tom Riley Park",
+        "opendata:type": "106001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5249986,
+          43.6506629
+        ]
+      },
+      "id": "node/2345710336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2345778394",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "2100",
+        "addr:street": "Martin Grove Road",
+        "leisure": "park",
+        "name": "Colony Park",
+        "opendata:type": "106001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5973298,
+          43.7466295
+        ]
+      },
+      "id": "node/2345778394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2345778406",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "19",
+        "addr:street": "Furness Crescent",
+        "leisure": "park",
+        "name": "Colony Park",
+        "opendata:type": "106001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5988149,
+          43.7468861
+        ]
+      },
+      "id": "node/2345778406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2352947263",
+        "addr:city": "North York",
+        "addr:housenumber": "400",
+        "addr:street": "Linkwood Lane",
+        "leisure": "park",
+        "name": "Linkwood Lane Park",
+        "opendata:type": "106001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3275182,
+          43.7188832
+        ]
+      },
+      "id": "node/2352947263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358057793",
+        "addr:city": "North York",
+        "addr:housenumber": "25",
+        "addr:street": "Southwell Drive",
+        "leisure": "park",
+        "opendata:type": "106001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3564344,
+          43.7469391
+        ]
+      },
+      "id": "node/2358057793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358057795",
+        "addr:city": "North York",
+        "addr:housenumber": "42",
+        "addr:street": "Preakness Drive",
+        "leisure": "park",
+        "opendata:type": "106001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3556849,
+          43.7460819
+        ]
+      },
+      "id": "node/2358057795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2378561750",
+        "addr:city": "North York",
+        "addr:housenumber": "303",
+        "addr:street": "Douglas Avenue",
+        "leisure": "park",
+        "opendata:type": "106001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4150341,
+          43.7238192
+        ]
+      },
+      "id": "node/2378561750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2379216886",
+        "addr:city": "North York",
+        "addr:housenumber": "109",
+        "addr:street": "Antibes Drive",
+        "leisure": "park",
+        "opendata:type": "106001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.447939,
+          43.7795142
+        ]
+      },
+      "id": "node/2379216886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2424416832",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "35",
+        "addr:street": "Riverwood Parkway",
+        "leisure": "park",
+        "opendata:type": "106001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4900009,
+          43.6401672
+        ]
+      },
+      "id": "node/2424416832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2434078800",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "30",
+        "addr:street": "Bergamot Avenue",
+        "leisure": "park",
+        "name": "Rexlington Park",
+        "opendata:type": "106001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5592563,
+          43.7164649
+        ]
+      },
+      "id": "node/2434078800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2447291688",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1",
+        "addr:street": "Centre Island Park",
+        "leisure": "park",
+        "name": "Centre Island Park",
+        "opendata:type": "106001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3772787,
+          43.6152238
+        ]
+      },
+      "id": "node/2447291688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2448963439",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "134X",
+        "addr:street": "Bonis Avenue",
+        "fixme": "housenumbers probably misaligned",
+        "leisure": "park",
+        "opendata:type": "106001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2951352,
+          43.7847982
+        ]
+      },
+      "id": "node/2448963439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4017024021",
+        "leisure": "park",
+        "name": "York Cemetery and Recreational Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4163002,
+          43.7650536
+        ]
+      },
+      "id": "node/4017024021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4044386606",
+        "leisure": "park",
+        "name": "Rouge Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1965024,
+          43.8249984
+        ]
+      },
+      "id": "node/4044386606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4444060471",
+        "leisure": "park",
+        "name": "Quantztown Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2974251,
+          43.8728112
+        ]
+      },
+      "id": "node/4444060471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4635796544",
+        "description": "lush green field",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4473052,
+          43.7202914
+        ]
+      },
+      "id": "node/4635796544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4638577997",
+        "leisure": "park",
+        "name": "Conservation area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0867242,
+          43.8832404
+        ]
+      },
+      "id": "node/4638577997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5276524656",
+        "description": "Joseph Bannon Park is dedicated to Joseph Bannon. Born in Scotland in 1919, Joseph Bannon enlisted with the Royal Canadian Air Force and in 1944 was part of the invading Canadian Forces that landed at Juno Beach.",
+        "leisure": "park",
+        "name": "Joseph Bannon Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5352735,
+          43.7321708
+        ]
+      },
+      "id": "node/5276524656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5278336636",
+        "addr:city": "Unionville",
+        "addr:housenumber": "4",
+        "addr:street": "Linda Way",
+        "leisure": "park",
+        "name": "Linda Way Parkside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.326294,
+          43.870442
+        ]
+      },
+      "id": "node/5278336636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5357974661",
+        "leisure": "park",
+        "name": "Komura Park Gazebo;Komura Gazebo Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5437784,
+          43.8321873
+        ]
+      },
+      "id": "node/5357974661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5357975614",
+        "addr:city": "Vaughan",
+        "addr:housenumber": "140",
+        "addr:street": "Komura Road",
+        "leisure": "park",
+        "name": "Komura Road Park",
+        "source": "NRCan-CanVec-7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5433987,
+          43.8321106
+        ]
+      },
+      "id": "node/5357975614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5357976787",
+        "leisure": "park",
+        "name": "Komura Park Gazebo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5440258,
+          43.8322398
+        ]
+      },
+      "id": "node/5357976787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5363808462",
+        "leisure": "park",
+        "name": "Toogood Pond Lookout Platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3159329,
+          43.8722211
+        ]
+      },
+      "id": "node/5363808462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5368822667",
+        "leisure": "park",
+        "name": "Deepsprings Pond",
+        "surface": "dirt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5419304,
+          43.8346446
+        ]
+      },
+      "id": "node/5368822667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5970427778",
+        "leisure": "park",
+        "name": "Scarlett Heights Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5117347,
+          43.6826547
+        ]
+      },
+      "id": "node/5970427778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6591077792",
+        "addr:city": "North York",
+        "addr:housenumber": "1240",
+        "addr:postcode": "M2K 2W1",
+        "addr:street": "Sheppard Avenue East",
+        "leisure": "park",
+        "name": "East Don Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3653952,
+          43.7722247
+        ]
+      },
+      "id": "node/6591077792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6907441731",
+        "addr:city": "Markham",
+        "addr:province": "Ontario",
+        "addr:street": "Maple Street",
+        "leisure": "park",
+        "name": "Community Garden",
+        "note": "The gardens may soon be closed as new residential homes are soon to be built."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2572198,
+          43.8806879
+        ]
+      },
+      "id": "node/6907441731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6984317119",
+        "leisure": "park",
+        "name": "Thistletown Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.564462,
+          43.7344147
+        ]
+      },
+      "id": "node/6984317119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7159542169",
+        "leisure": "park",
+        "name": "Park Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.396227,
+          43.8986895
+        ]
+      },
+      "id": "node/7159542169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7775670083",
+        "leisure": "park",
+        "name": "East York Rotary Commons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3418609,
+          43.6907496
+        ]
+      },
+      "id": "node/7775670083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8392213018",
+        "addr:city": "Toronto",
+        "addr:housenumber": "15",
+        "addr:postcode": "M4Y 1M7",
+        "addr:province": "Ontario",
+        "addr:street": "Gloucester Street",
+        "description": "a small garden park in Toronto",
+        "leisure": "park",
+        "name": "James Canning Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3845427,
+          43.6671061
+        ]
+      },
+      "id": "node/8392213018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8409384328",
+        "description": "play ground consists of mini basketball courts and slides",
+        "leisure": "park",
+        "name": "play ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3035752,
+          43.7817724
+        ]
+      },
+      "id": "node/8409384328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8611260207",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "20",
+        "addr:postcode": "M9B 0C3",
+        "addr:province": "Ontario",
+        "addr:street": "Thomas Reily Road",
+        "leisure": "park",
+        "name": "20 Thomas Riley Road Parkette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5410646,
+          43.6343601
+        ]
+      },
+      "id": "node/8611260207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8898757570",
+        "description": "Short hike, may see interesting wild lifes",
+        "leisure": "park",
+        "name": "Macrill Crescent Pond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3427809,
+          43.8780549
+        ]
+      },
+      "id": "node/8898757570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8946508777",
+        "addr:housenumber": "1116",
+        "addr:street": "Islington Avenue",
+        "leisure": "park",
+        "name": "Islington Parkette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5208279,
+          43.6378287
+        ]
+      },
+      "id": "node/8946508777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8978506878",
+        "addr:housenumber": "305",
+        "addr:street": "Martin Grove Road",
+        "leisure": "park",
+        "name": "Ravenscrest Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5556009,
+          43.6586881
+        ]
+      },
+      "id": "node/8978506878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9078062124",
+        "addr:housenumber": "60",
+        "addr:street": "Wimbleton Road",
+        "leisure": "park",
+        "name": "Wimbleton Road South Parkette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5241248,
+          43.6608086
+        ]
+      },
+      "id": "node/9078062124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9078102872",
+        "addr:housenumber": "16",
+        "addr:street": "Hilldowntree Road",
+        "leisure": "park",
+        "name": "Hilldowntree Parkette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5261959,
+          43.6602862
+        ]
+      },
+      "id": "node/9078102872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9483927677",
+        "addr:housenumber": "72A",
+        "addr:street": "Westhead Road",
+        "leisure": "park",
+        "name": "Etobicoke Valley Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5565955,
+          43.604935
+        ]
+      },
+      "id": "node/9483927677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596082843",
+        "addr:city": "Toronto",
+        "addr:postcode": "M4K 1E8",
+        "addr:province": "ON",
+        "addr:street": "Bain Avenue",
+        "leisure": "park",
+        "name": "Childrens Community Garden",
+        "opening_hours": "24/7",
+        "operator": "Community Co-op Memebers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.348701,
+          43.6717357
+        ]
+      },
+      "id": "node/9596082843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9696330542",
+        "addr:housenumber": "10",
+        "addr:street": "Montgomery Road",
+        "leisure": "park",
+        "name": "Montgomery Green Space",
+        "operator": "Toronto Transit Commission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.515936,
+          43.6473526
+        ]
+      },
+      "id": "node/9696330542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9759794001",
+        "addr:housenumber": "4321",
+        "addr:street": "Wellsborough Place",
+        "leisure": "park",
+        "name": "Ellis Leuschner Challenge Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6806522,
+          43.5668364
+        ]
+      },
+      "id": "node/9759794001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9918137343",
+        "leisure": "park",
+        "name": "The Gordon S. Shipp Memorial Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6342838,
+          43.5979618
+        ]
+      },
+      "id": "node/9918137343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9998098421",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4287543,
+          43.7235479
+        ]
+      },
+      "id": "node/9998098421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10608661979",
+        "leisure": "park",
+        "name": "Springdale Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.270577,
+          43.8846067
+        ]
+      },
+      "id": "node/10608661979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10704953188",
+        "leisure": "park",
+        "name": "bayview glen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4299688,
+          43.8466648
+        ]
+      },
+      "id": "node/10704953188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10705559488",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4294876,
+          43.8469273
+        ]
+      },
+      "id": "node/10705559488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10705568365",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4298073,
+          43.8467154
+        ]
+      },
+      "id": "node/10705568365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10924881881",
+        "leisure": "park",
+        "name": "Wigmore Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3128495,
+          43.7309514
+        ]
+      },
+      "id": "node/10924881881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11006264026",
+        "leisure": "park",
+        "name": "poison ivy patch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3828318,
+          43.7796061
+        ]
+      },
+      "id": "node/11006264026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11673378999",
+        "leisure": "park",
+        "name": "German Settler Park",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3732867,
+          43.8214563
+        ]
+      },
+      "id": "node/11673378999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11737541958",
+        "addr:housenumber": "59",
+        "addr:street": "Dalrymple Drive",
+        "leisure": "park",
+        "name": "Dalrymple Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4913938,
+          43.6784568
+        ]
+      },
+      "id": "node/11737541958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11882563610",
+        "fixme": "turn into polygon",
+        "leisure": "park",
+        "name": "Peter Street Basin Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3899909,
+          43.638242
+        ]
+      },
+      "id": "node/11882563610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11971023544",
+        "leisure": "park",
+        "name": "6 Horton Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2462805,
+          43.7359633
+        ]
+      },
+      "id": "node/11971023544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11987305484",
+        "leisure": "park",
+        "name": "poison ivy patch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3866504,
+          43.7818191
+        ]
+      },
+      "id": "node/11987305484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12063299514",
+        "addr:housenumber": "899",
+        "addr:street": "Pharmacy Avenue",
+        "leisure": "park",
+        "name": "Wexford Hydro Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.298884,
+          43.7305812
+        ]
+      },
+      "id": "node/12063299514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12189223291",
+        "addr:housenumber": "10",
+        "addr:street": "Haney Avenue",
+        "fixme": "this is a correct park name, need to figure out the borders",
+        "leisure": "park",
+        "name": "Haney Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4951044,
+          43.6740065
+        ]
+      },
+      "id": "node/12189223291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12218989018",
+        "leisure": "park",
+        "name": "Raccoon Park",
+        "operator": "City of Toronto Parks and Recreation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3950499,
+          43.7051518
+        ]
+      },
+      "id": "node/12218989018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12324652640",
+        "leisure": "park",
+        "name": "Bayview Reservoir Park",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4042774,
+          43.8322426
+        ]
+      },
+      "id": "node/12324652640"
+    }
+  ]
+}

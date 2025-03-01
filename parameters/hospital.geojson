@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-03-01T18:43:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9924411225",
+        "addr:city": "Vaughan",
+        "addr:housenumber": "4000",
+        "addr:postcode": "L4L 4V9",
+        "addr:province": "ON",
+        "addr:street": "Steeles Avenue West",
+        "amenity": "hospital",
+        "description": "\"Global Health for all Inc is a health care agency experienced in providing skillful and expert Nursing and Personal Support Staffing Services across Canada. Our hiring, screening and performance management practices ensures that the staff meets the requi",
+        "email": "admin@globalhealthforall.ca",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Global Health for All Inc",
+        "website": "https://globalhealthforall.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.55079,
+          43.7699884
+        ]
+      },
+      "id": "node/9924411225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12104080211",
+        "addr:city": "Toronto",
+        "addr:housenumber": "2",
+        "addr:postcode": "M5B 1J3",
+        "addr:province": "ON",
+        "addr:street": "Carlton Street",
+        "addr:unit": "708",
+        "amenity": "hospital",
+        "description": "Conveniently located in Toronto, ALIVE Holistic Health & Fertility Clinic takes a holistic approach to enhance your emotional, spiritual, and physical health. We work with individuals and couples who may be facing fertility complications.",
+        "healthcare": "hospital",
+        "healthcare:speciality": "acupuncture;fertility",
+        "name": "Acupuncture Toronto - ALIVE Holistic Health & Fertility Clinic",
+        "phone": "416-591-1535",
+        "website": "https://aliveholistichealth.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3828809,
+          43.6616543
+        ]
+      },
+      "id": "node/12104080211"
+    }
+  ]
+}

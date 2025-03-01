@@ -1,0 +1,6993 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-03-01T19:05:16Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1497793",
+        "highway": "motorway_junction",
+        "ref": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3346901,
+          43.7555309
+        ]
+      },
+      "id": "node/1497793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1498116",
+        "highway": "motorway_junction",
+        "ref": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3305335,
+          43.7255298
+        ]
+      },
+      "id": "node/1498116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1500224",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3343753,
+          43.7689419
+        ]
+      },
+      "id": "node/1500224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1500294",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3343615,
+          43.7675254
+        ]
+      },
+      "id": "node/1500294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1500324",
+        "highway": "motorway_junction",
+        "ref": "375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3536635,
+          43.7666169
+        ]
+      },
+      "id": "node/1500324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1500355",
+        "highway": "motorway_junction",
+        "ref": "375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3273776,
+          43.7682983
+        ]
+      },
+      "id": "node/1500355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1500367",
+        "highway": "motorway_junction",
+        "ref": "375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3265949,
+          43.7685461
+        ]
+      },
+      "id": "node/1500367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1500382",
+        "highway": "motorway_junction",
+        "ref": "376"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3140412,
+          43.7687015
+        ]
+      },
+      "id": "node/1500382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1500416",
+        "highway": "motorway_junction",
+        "ref": "376"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3259759,
+          43.7678813
+        ]
+      },
+      "id": "node/1500416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3451579",
+        "highway": "motorway_junction",
+        "ref": "399"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0646583,
+          43.8418054
+        ]
+      },
+      "id": "node/3451579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3451596",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0695541,
+          43.8395172
+        ]
+      },
+      "id": "node/3451596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3451686",
+        "highway": "motorway_junction",
+        "noref": "yes",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1040558,
+          43.8235482
+        ]
+      },
+      "id": "node/3451686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3454742",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1132964,
+          43.8173318
+        ]
+      },
+      "id": "node/3454742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3458665",
+        "highway": "motorway_junction",
+        "ref": "155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3605147,
+          43.6481414
+        ]
+      },
+      "id": "node/3458665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3458699",
+        "highway": "motorway_junction",
+        "ref": "154",
+        "source": "Mapillary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.368164,
+          43.6462243
+        ]
+      },
+      "id": "node/3458699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3458773",
+        "highway": "motorway_junction",
+        "ref": "153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3993498,
+          43.6378351
+        ]
+      },
+      "id": "node/3458773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3458805",
+        "highway": "motorway_junction",
+        "ref": "149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4283169,
+          43.6331047
+        ]
+      },
+      "id": "node/3458805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3458858",
+        "highway": "motorway_junction",
+        "ref": "149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4375266,
+          43.6341035
+        ]
+      },
+      "id": "node/3458858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3458920",
+        "highway": "motorway_junction",
+        "ref": "146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4858841,
+          43.6263761
+        ]
+      },
+      "id": "node/3458920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3458959",
+        "highway": "motorway_junction",
+        "ref": "144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5050659,
+          43.6217305
+        ]
+      },
+      "id": "node/3458959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3458964",
+        "highway": "motorway_junction",
+        "ref": "142B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5123354,
+          43.6203168
+        ]
+      },
+      "id": "node/3458964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/18317258",
+        "highway": "motorway_junction",
+        "ref": "375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3522707,
+          43.7664455
+        ]
+      },
+      "id": "node/18317258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/18318860",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3363094,
+          43.767786
+        ]
+      },
+      "id": "node/18318860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/18319127",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3311085,
+          43.7686716
+        ]
+      },
+      "id": "node/18319127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/20650409",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3458347,
+          43.7665063
+        ]
+      },
+      "id": "node/20650409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/20650422",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3416992,
+          43.7663729
+        ]
+      },
+      "id": "node/20650422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/20650453",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3397386,
+          43.7656473
+        ]
+      },
+      "id": "node/20650453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/20650536",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3391912,
+          43.7714029
+        ]
+      },
+      "id": "node/20650536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/20650541",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.339568,
+          43.7695059
+        ]
+      },
+      "id": "node/20650541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/20698655",
+        "highway": "motorway_junction",
+        "ref": "18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3412654,
+          43.7832969
+        ]
+      },
+      "id": "node/20698655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/20920958",
+        "guidepost": "overhead",
+        "highway": "motorway_junction",
+        "ref": "17",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3390139,
+          43.7719041
+        ]
+      },
+      "id": "node/20920958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/20920970",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3444496,
+          43.7666916
+        ]
+      },
+      "id": "node/20920970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/20964490",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3638748,
+          43.6821878
+        ]
+      },
+      "id": "node/20964490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21306147",
+        "highway": "motorway_junction",
+        "ref": "7A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3405621,
+          43.6980999
+        ]
+      },
+      "id": "node/21306147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21306173",
+        "highway": "motorway_junction",
+        "ref": "7A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3381811,
+          43.6999946
+        ]
+      },
+      "id": "node/21306173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21421205",
+        "highway": "motorway_junction",
+        "ref": "342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6898655,
+          43.6273366
+        ]
+      },
+      "id": "node/21421205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21421401",
+        "highway": "motorway_junction",
+        "ref": "346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6607855,
+          43.6383154
+        ]
+      },
+      "id": "node/21421401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21421437",
+        "highway": "motorway_junction",
+        "ref": "348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5973163,
+          43.6660602
+        ]
+      },
+      "id": "node/21421437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21421514",
+        "guidepost": "overhead",
+        "highway": "motorway_junction",
+        "source": "Mapillary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.559747,
+          43.6328854
+        ]
+      },
+      "id": "node/21421514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21421516",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5606462,
+          43.6371078
+        ]
+      },
+      "id": "node/21421516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21421534",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.565995,
+          43.6509899
+        ]
+      },
+      "id": "node/21421534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21421540",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5606859,
+          43.6386483
+        ]
+      },
+      "id": "node/21421540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21421548",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5524247,
+          43.6178567
+        ]
+      },
+      "id": "node/21421548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21421595",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3320698,
+          43.7237854
+        ]
+      },
+      "id": "node/21421595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21421611",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3283958,
+          43.7223676
+        ]
+      },
+      "id": "node/21421611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21426219",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5563614,
+          43.6276364
+        ]
+      },
+      "id": "node/21426219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21426227",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5639128,
+          43.6472589
+        ]
+      },
+      "id": "node/21426227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21426240",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5732962,
+          43.6677855
+        ]
+      },
+      "id": "node/21426240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21426294",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5916519,
+          43.6733956
+        ]
+      },
+      "id": "node/21426294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21426318",
+        "highway": "motorway_junction",
+        "ref": "346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6321359,
+          43.6507435
+        ]
+      },
+      "id": "node/21426318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21426322",
+        "highway": "motorway_junction",
+        "ref": "344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6443325,
+          43.6461403
+        ]
+      },
+      "id": "node/21426322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21426338",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6678016,
+          43.6444498
+        ]
+      },
+      "id": "node/21426338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21426861",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6501259,
+          43.6446325
+        ]
+      },
+      "id": "node/21426861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21426892",
+        "highway": "motorway_junction",
+        "ref": "117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6558983,
+          43.5902088
+        ]
+      },
+      "id": "node/21426892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21426903",
+        "highway": "motorway_junction",
+        "ref": "112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6908625,
+          43.5579417
+        ]
+      },
+      "id": "node/21426903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21426925",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6616395,
+          43.6403299
+        ]
+      },
+      "id": "node/21426925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21428990",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5477123,
+          43.6143043
+        ]
+      },
+      "id": "node/21428990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21429004",
+        "highway": "motorway_junction",
+        "ref": "139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5446882,
+          43.6149038
+        ]
+      },
+      "id": "node/21429004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21429012",
+        "highway": "motorway_junction",
+        "ref": "139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5373115,
+          43.61583
+        ]
+      },
+      "id": "node/21429012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21429021",
+        "highway": "motorway_junction",
+        "ref": "141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.522799,
+          43.6188136
+        ]
+      },
+      "id": "node/21429021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21429024",
+        "highway": "motorway_junction",
+        "ref": "142A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5169039,
+          43.620036
+        ]
+      },
+      "id": "node/21429024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21429028",
+        "highway": "motorway_junction",
+        "ref": "142B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5109091,
+          43.6211196
+        ]
+      },
+      "id": "node/21429028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21429045",
+        "highway": "motorway_junction",
+        "ref": "141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5209761,
+          43.6186159
+        ]
+      },
+      "id": "node/21429045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21429050",
+        "highway": "motorway_junction",
+        "ref": "142A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5155094,
+          43.6196879
+        ]
+      },
+      "id": "node/21429050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21436553",
+        "highway": "motorway_junction",
+        "ref": "142 A-B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5058764,
+          43.6219748
+        ]
+      },
+      "id": "node/21436553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21436557",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5155228,
+          43.6200649
+        ]
+      },
+      "id": "node/21436557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21436588",
+        "highway": "motorway_junction",
+        "noref": "yes",
+        "note": "Two lane exit, right lane of exit splits"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5806799,
+          43.6722482
+        ]
+      },
+      "id": "node/21436588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21436607",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5950675,
+          43.6825764
+        ]
+      },
+      "id": "node/21436607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21436614",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6047196,
+          43.6933386
+        ]
+      },
+      "id": "node/21436614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21436620",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.617493,
+          43.7141357
+        ]
+      },
+      "id": "node/21436620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21436625",
+        "highway": "motorway_junction",
+        "ref": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.629395,
+          43.7451066
+        ]
+      },
+      "id": "node/21436625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21489772",
+        "highway": "motorway_junction",
+        "noref": "yes",
+        "note": "Caution: must cross several lanes in short distance to exit at Kennedy Road, using previous transfer recommended",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3020757,
+          43.7707438
+        ]
+      },
+      "id": "node/21489772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21489804",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2512998,
+          43.7817513
+        ]
+      },
+      "id": "node/21489804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21489845",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1904275,
+          43.7974806
+        ]
+      },
+      "id": "node/21489845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21489854",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1763971,
+          43.7992972
+        ]
+      },
+      "id": "node/21489854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21489874",
+        "highway": "motorway_junction",
+        "ref": "401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0334738,
+          43.8505946
+        ]
+      },
+      "id": "node/21489874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21489888",
+        "highway": "motorway_junction",
+        "ref": "404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0057801,
+          43.8569049
+        ]
+      },
+      "id": "node/21489888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21489900",
+        "highway": "motorway_junction",
+        "ref": "401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0471097,
+          43.8476086
+        ]
+      },
+      "id": "node/21489900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21489948",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3822128,
+          43.7641548
+        ]
+      },
+      "id": "node/21489948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21489963",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4147222,
+          43.7494865
+        ]
+      },
+      "id": "node/21489963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21489979",
+        "highway": "motorway_junction",
+        "ref": "365",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4379865,
+          43.7336332
+        ]
+      },
+      "id": "node/21489979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21490009",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4936173,
+          43.7198732
+        ]
+      },
+      "id": "node/21490009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21490016",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5060179,
+          43.717781
+        ]
+      },
+      "id": "node/21490016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21490028",
+        "highway": "motorway_junction",
+        "ref": "359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5313807,
+          43.7143365
+        ]
+      },
+      "id": "node/21490028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21490047",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5608199,
+          43.7013406
+        ]
+      },
+      "id": "node/21490047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21490052",
+        "highway": "motorway_junction",
+        "old_ref": "46",
+        "ref": "354",
+        "source": "CanMatrix (c) Natural Resource Canada All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5670057,
+          43.6948277
+        ]
+      },
+      "id": "node/21490052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21490063",
+        "highway": "motorway_junction",
+        "ref": "351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5783876,
+          43.6759858
+        ]
+      },
+      "id": "node/21490063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21490098",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6196209,
+          43.6563975
+        ]
+      },
+      "id": "node/21490098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21490120",
+        "highway": "motorway_junction",
+        "ref": "344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6459689,
+          43.6450148
+        ]
+      },
+      "id": "node/21490120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21542878",
+        "highway": "motorway_junction",
+        "ref": "356",
+        "source": "CanMatrix (c) Natural Resource Canada All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5554067,
+          43.7065395
+        ]
+      },
+      "id": "node/21542878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21542897",
+        "highway": "motorway_junction",
+        "ref": "362",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4862475,
+          43.7211061
+        ]
+      },
+      "id": "node/21542897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21542900",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4940963,
+          43.7200825
+        ]
+      },
+      "id": "node/21542900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21542912",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5055603,
+          43.7174857
+        ]
+      },
+      "id": "node/21542912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21542916",
+        "highway": "motorway_junction",
+        "ref": "359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5121465,
+          43.7174696
+        ]
+      },
+      "id": "node/21542916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21542925",
+        "highway": "motorway_junction",
+        "ref": "356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5439775,
+          43.7120363
+        ]
+      },
+      "id": "node/21542925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21542928",
+        "highway": "motorway_junction",
+        "ref": "355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5480732,
+          43.7108465
+        ]
+      },
+      "id": "node/21542928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21542939",
+        "highway": "motorway_junction",
+        "ref": "362",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4760296,
+          43.7241844
+        ]
+      },
+      "id": "node/21542939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21542942",
+        "highway": "motorway_junction",
+        "ref": "364",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4632492,
+          43.7265391
+        ]
+      },
+      "id": "node/21542942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21542963",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4406579,
+          43.7329342
+        ]
+      },
+      "id": "node/21542963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21542970",
+        "highway": "motorway_junction",
+        "ref": "367",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4258893,
+          43.740339
+        ]
+      },
+      "id": "node/21542970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21543005",
+        "highway": "motorway_junction",
+        "noref": "yes",
+        "note": "2 lane exit, left lane exits, 2nd lane from left splits"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3756139,
+          43.7657825
+        ]
+      },
+      "id": "node/21543005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21543012",
+        "highway": "motorway_junction",
+        "ref": "373",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3551817,
+          43.7668744
+        ]
+      },
+      "id": "node/21543012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21543026",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2735374,
+          43.7771616
+        ]
+      },
+      "id": "node/21543026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21543044",
+        "highway": "motorway_junction",
+        "ref": "378",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3019713,
+          43.7712081
+        ]
+      },
+      "id": "node/21543044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21543046",
+        "highway": "motorway_junction",
+        "ref": "378",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.305947,
+          43.769665
+        ]
+      },
+      "id": "node/21543046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21543052",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.201298,
+          43.7954939
+        ]
+      },
+      "id": "node/21543052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21543058",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.21444,
+          43.7941702
+        ]
+      },
+      "id": "node/21543058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21543088",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1693876,
+          43.800338
+        ]
+      },
+      "id": "node/21543088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21554686",
+        "highway": "motorway_junction",
+        "ref": "35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5474463,
+          43.8415449
+        ]
+      },
+      "id": "node/21554686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21554695",
+        "highway": "motorway_junction",
+        "ref": "35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5502524,
+          43.8533639
+        ]
+      },
+      "id": "node/21554695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21554698",
+        "highway": "motorway_junction",
+        "ref": "37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.551533,
+          43.8597609
+        ]
+      },
+      "id": "node/21554698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/23940543",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4712854,
+          43.6339546
+        ]
+      },
+      "id": "node/23940543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25644773",
+        "highway": "motorway_junction",
+        "ref": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5447068,
+          43.8128671
+        ]
+      },
+      "id": "node/25644773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25644794",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5239512,
+          43.7253393
+        ]
+      },
+      "id": "node/25644794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25644819",
+        "highway": "motorway_junction",
+        "ref": "32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5449515,
+          43.8163494
+        ]
+      },
+      "id": "node/25644819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25777951",
+        "highway": "motorway_junction",
+        "ref": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3424643,
+          43.7908796
+        ]
+      },
+      "id": "node/25777951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25777955",
+        "highway": "motorway_junction",
+        "ref": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3461593,
+          43.8076942
+        ]
+      },
+      "id": "node/25777955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26240111",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5988763,
+          43.6850641
+        ]
+      },
+      "id": "node/26240111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26658849",
+        "highway": "motorway_junction",
+        "ref": "139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.554197,
+          43.609832
+        ]
+      },
+      "id": "node/26658849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26658858",
+        "highway": "motorway_junction",
+        "ref": "138",
+        "source": "CanMatrix (C) Natural Resources Canada All rights reserved"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5606492,
+          43.6039485
+        ]
+      },
+      "id": "node/26658858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657482",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4427137,
+          43.7127664
+        ]
+      },
+      "id": "node/29657482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657517",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4455067,
+          43.7188825
+        ]
+      },
+      "id": "node/29657517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657588",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4473829,
+          43.7248629
+        ]
+      },
+      "id": "node/29657588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657608",
+        "highway": "motorway_junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4510393,
+          43.7309661
+        ]
+      },
+      "id": "node/29657608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657615",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4504897,
+          43.7349535
+        ]
+      },
+      "id": "node/29657615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657618",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.450375,
+          43.7326571
+        ]
+      },
+      "id": "node/29657618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657644",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4478123,
+          43.7269837
+        ]
+      },
+      "id": "node/29657644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657664",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4472158,
+          43.7270327
+        ]
+      },
+      "id": "node/29657664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657678",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.44635,
+          43.7291009
+        ]
+      },
+      "id": "node/29657678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657681",
+        "highway": "motorway_junction",
+        "ref": "365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4550219,
+          43.7283072
+        ]
+      },
+      "id": "node/29657681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657684",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4515714,
+          43.7289298
+        ]
+      },
+      "id": "node/29657684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657698",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4499304,
+          43.7334255
+        ]
+      },
+      "id": "node/29657698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657706",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4490768,
+          43.7276653
+        ]
+      },
+      "id": "node/29657706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657709",
+        "highway": "motorway_junction",
+        "ref": "365",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4371614,
+          43.7344056
+        ]
+      },
+      "id": "node/29657709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657719",
+        "guidepost": "overhead",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4462699,
+          43.7309426
+        ]
+      },
+      "id": "node/29657719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657776",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4467821,
+          43.7310281
+        ]
+      },
+      "id": "node/29657776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29657782",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4443061,
+          43.7316452
+        ]
+      },
+      "id": "node/29657782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29658136",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4479165,
+          43.7300347
+        ]
+      },
+      "id": "node/29658136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29658193",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.450782,
+          43.737056
+        ]
+      },
+      "id": "node/29658193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29658197",
+        "highway": "motorway_junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4528589,
+          43.7411924
+        ]
+      },
+      "id": "node/29658197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29658671",
+        "highway": "motorway_junction",
+        "noref": "yes",
+        "note": "left lane splits (to Black Creek Dr and 400), right lane is to 400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5162277,
+          43.7175743
+        ]
+      },
+      "id": "node/29658671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29658784",
+        "highway": "motorway_junction",
+        "ref": "20",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5106287,
+          43.7121733
+        ]
+      },
+      "id": "node/29658784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29658862",
+        "highway": "motorway_junction",
+        "ref": "21B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5176013,
+          43.7157058
+        ]
+      },
+      "id": "node/29658862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29658877",
+        "highway": "motorway_junction",
+        "ref": "21A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5117974,
+          43.7126232
+        ]
+      },
+      "id": "node/29658877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659096",
+        "highway": "motorway_junction",
+        "ref": "20",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5014991,
+          43.7101173
+        ]
+      },
+      "id": "node/29659096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659138",
+        "highway": "motorway_junction",
+        "ref": "26",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5339032,
+          43.7690877
+        ]
+      },
+      "id": "node/29659138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659171",
+        "highway": "motorway_junction",
+        "noref": "yes",
+        "note": "middle lane splits into two",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5440639,
+          43.7810118
+        ]
+      },
+      "id": "node/29659171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659182",
+        "highway": "motorway_junction",
+        "note": "middle lane splits into two",
+        "ref": "66",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5516375,
+          43.779968
+        ]
+      },
+      "id": "node/29659182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659214",
+        "highway": "motorway_junction",
+        "note": "2 lane exit, left lane of exit splits",
+        "ref": "66",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5195486,
+          43.7871252
+        ]
+      },
+      "id": "node/29659214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659217",
+        "highway": "motorway_junction",
+        "noref": "yes",
+        "note": "middle lane splits into two",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5300743,
+          43.7856945
+        ]
+      },
+      "id": "node/29659217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659230",
+        "highway": "motorway_junction",
+        "ref": "26",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5403192,
+          43.7945475
+        ]
+      },
+      "id": "node/29659230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659256",
+        "highway": "motorway_junction",
+        "note": "middle lane splits into two",
+        "ref": "67",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5350627,
+          43.7834501
+        ]
+      },
+      "id": "node/29659256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659299",
+        "highway": "motorway_junction",
+        "note": "2 lane exit, left lane of exit splits",
+        "ref": "67",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5139639,
+          43.7885009
+        ]
+      },
+      "id": "node/29659299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659337",
+        "highway": "motorway_junction",
+        "ref": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5412672,
+          43.8012927
+        ]
+      },
+      "id": "node/29659337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659361",
+        "highway": "motorway_junction",
+        "ref": "29",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5410591,
+          43.7961799
+        ]
+      },
+      "id": "node/29659361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659389",
+        "highway": "motorway_junction",
+        "ref": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5374016,
+          43.7841319
+        ]
+      },
+      "id": "node/29659389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659391",
+        "highway": "motorway_junction",
+        "ref": "29",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5375062,
+          43.7879148
+        ]
+      },
+      "id": "node/29659391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659450",
+        "highway": "motorway_junction",
+        "ref": "65",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5578893,
+          43.7784751
+        ]
+      },
+      "id": "node/29659450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659492",
+        "highway": "motorway_junction",
+        "ref": "75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4609151,
+          43.8258674
+        ]
+      },
+      "id": "node/29659492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659503",
+        "highway": "motorway_junction",
+        "ref": "79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4128807,
+          43.8385532
+        ]
+      },
+      "id": "node/29659503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659509",
+        "highway": "motorway_junction",
+        "note": "2 lane exit, left lane of exit splits",
+        "ref": "81"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3897679,
+          43.8365205
+        ]
+      },
+      "id": "node/29659509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659511",
+        "highway": "motorway_junction",
+        "note": "2 lane exit, left lane of exit splits",
+        "ref": "83"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3849533,
+          43.8366264
+        ]
+      },
+      "id": "node/29659511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659528",
+        "highway": "motorway_junction",
+        "ref": "92"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2635361,
+          43.8606645
+        ]
+      },
+      "id": "node/29659528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659601",
+        "highway": "motorway_junction",
+        "ref": "88"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3004933,
+          43.8520767
+        ]
+      },
+      "id": "node/29659601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659606",
+        "highway": "motorway_junction",
+        "ref": "84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3473301,
+          43.842425
+        ]
+      },
+      "id": "node/29659606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659614",
+        "highway": "motorway_junction",
+        "ref": "79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3998122,
+          43.8375521
+        ]
+      },
+      "id": "node/29659614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659627",
+        "highway": "motorway_junction",
+        "ref": "75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4463894,
+          43.8293914
+        ]
+      },
+      "id": "node/29659627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659711",
+        "highway": "motorway_junction",
+        "noref": "yes",
+        "note": "right lane splits"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3711011,
+          43.8440108
+        ]
+      },
+      "id": "node/29659711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659736",
+        "highway": "motorway_junction",
+        "ref": "84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3634082,
+          43.83963
+        ]
+      },
+      "id": "node/29659736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659801",
+        "highway": "motorway_junction",
+        "ref": "83"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.355482,
+          43.8412344
+        ]
+      },
+      "id": "node/29659801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659889",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3619041,
+          43.8411836
+        ]
+      },
+      "id": "node/29659889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29659949",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3745063,
+          43.837553
+        ]
+      },
+      "id": "node/29659949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29660012",
+        "highway": "motorway_junction",
+        "note": "2 lane exit, left lane of exit splits",
+        "ref": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3726355,
+          43.8529177
+        ]
+      },
+      "id": "node/29660012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29660093",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3651485,
+          43.8337267
+        ]
+      },
+      "id": "node/29660093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29660391",
+        "highway": "motorway_junction",
+        "ref": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3767543,
+          43.8697191
+        ]
+      },
+      "id": "node/29660391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32348038",
+        "highway": "motorway_junction",
+        "ref": "385",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2109585,
+          43.7946932
+        ]
+      },
+      "id": "node/32348038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32353778",
+        "highway": "motorway_junction",
+        "ref": "392",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1377908,
+          43.8028599
+        ]
+      },
+      "id": "node/32353778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32355221",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1407793,
+          43.8010218
+        ]
+      },
+      "id": "node/32355221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32370814",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1651081,
+          43.7848091
+        ]
+      },
+      "id": "node/32370814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32378001",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1522806,
+          43.7926644
+        ]
+      },
+      "id": "node/32378001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32409985",
+        "highway": "motorway_junction",
+        "ref": "394"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1067805,
+          43.8225561
+        ]
+      },
+      "id": "node/32409985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32409991",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1237452,
+          43.8111542
+        ]
+      },
+      "id": "node/32409991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32410781",
+        "highway": "motorway_junction",
+        "note": "second lane from right splits",
+        "ref": "399"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.079865,
+          43.8342914
+        ]
+      },
+      "id": "node/32410781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32411523",
+        "highway": "motorway_junction",
+        "ref": "390",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1592394,
+          43.7968401
+        ]
+      },
+      "id": "node/32411523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32422360",
+        "highway": "motorway_junction",
+        "ref": "385",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2204147,
+          43.7914589
+        ]
+      },
+      "id": "node/32422360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32422661",
+        "highway": "motorway_junction",
+        "ref": "387",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2030957,
+          43.7952502
+        ]
+      },
+      "id": "node/32422661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32423231",
+        "highway": "motorway_junction",
+        "ref": "387",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1915654,
+          43.797604
+        ]
+      },
+      "id": "node/32423231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32424693",
+        "highway": "motorway_junction",
+        "ref": "389",
+        "source": "Yahoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1722736,
+          43.7995811
+        ]
+      },
+      "id": "node/32424693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32424747",
+        "highway": "motorway_junction",
+        "ref": "389",
+        "source": "Yahoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1607794,
+          43.7980034
+        ]
+      },
+      "id": "node/32424747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32474271",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2669907,
+          43.7782673
+        ]
+      },
+      "id": "node/32474271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32474298",
+        "highway": "motorway_junction",
+        "ref": "380",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2698028,
+          43.7778358
+        ]
+      },
+      "id": "node/32474298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32474339",
+        "highway": "motorway_junction",
+        "ref": "381",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2607517,
+          43.7797097
+        ]
+      },
+      "id": "node/32474339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32474480",
+        "highway": "motorway_junction",
+        "ref": "381",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2495458,
+          43.7825318
+        ]
+      },
+      "id": "node/32474480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32475202",
+        "highway": "motorway_junction",
+        "ref": "379",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2789175,
+          43.7766989
+        ]
+      },
+      "id": "node/32475202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32475485",
+        "highway": "motorway_junction",
+        "ref": "379",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2918,
+          43.7729774
+        ]
+      },
+      "id": "node/32475485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32567390",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5700068,
+          43.7004095
+        ]
+      },
+      "id": "node/32567390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32974814",
+        "highway": "motorway_junction",
+        "ref": "53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6701964,
+          43.7306823
+        ]
+      },
+      "id": "node/32974814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32974827",
+        "highway": "motorway_junction",
+        "ref": "50",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6810753,
+          43.7040116
+        ]
+      },
+      "id": "node/32974827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33540581",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.136293,
+          43.8034093
+        ]
+      },
+      "id": "node/33540581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33540609",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1404481,
+          43.7999894
+        ]
+      },
+      "id": "node/33540609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36170159",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5582636,
+          43.7056854
+        ]
+      },
+      "id": "node/36170159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36170540",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5793446,
+          43.6983226
+        ]
+      },
+      "id": "node/36170540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36171892",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6035518,
+          43.6973891
+        ]
+      },
+      "id": "node/36171892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36171979",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5981937,
+          43.69678
+        ]
+      },
+      "id": "node/36171979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36191285",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6109244,
+          43.6945783
+        ]
+      },
+      "id": "node/36191285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36191301",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6108118,
+          43.6932225
+        ]
+      },
+      "id": "node/36191301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36191322",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6123458,
+          43.6899356
+        ]
+      },
+      "id": "node/36191322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36191332",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6138268,
+          43.6861135
+        ]
+      },
+      "id": "node/36191332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36191337",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6115969,
+          43.7029724
+        ]
+      },
+      "id": "node/36191337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36191389",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6123606,
+          43.6918253
+        ]
+      },
+      "id": "node/36191389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36191398",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6106346,
+          43.700519
+        ]
+      },
+      "id": "node/36191398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36191400",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6099298,
+          43.6990766
+        ]
+      },
+      "id": "node/36191400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36191487",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6117083,
+          43.6930453
+        ]
+      },
+      "id": "node/36191487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36191543",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6149074,
+          43.6836338
+        ]
+      },
+      "id": "node/36191543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36191950",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6099174,
+          43.6856059
+        ]
+      },
+      "id": "node/36191950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36191979",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6151617,
+          43.6868306
+        ]
+      },
+      "id": "node/36191979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36192046",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6065619,
+          43.6848874
+        ]
+      },
+      "id": "node/36192046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36192281",
+        "highway": "motorway_junction",
+        "ref": "344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6718878,
+          43.6344349
+        ]
+      },
+      "id": "node/36192281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36192283",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6667486,
+          43.6361597
+        ]
+      },
+      "id": "node/36192283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36192361",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6525165,
+          43.6336291
+        ]
+      },
+      "id": "node/36192361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36531732",
+        "highway": "motorway_junction",
+        "ref": "369",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4120702,
+          43.7506768
+        ]
+      },
+      "id": "node/36531732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36531895",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4093586,
+          43.7521888
+        ]
+      },
+      "id": "node/36531895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36532011",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4071099,
+          43.7554634
+        ]
+      },
+      "id": "node/36532011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36532056",
+        "highway": "motorway_junction",
+        "ref": "369",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4020481,
+          43.7578306
+        ]
+      },
+      "id": "node/36532056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36532943",
+        "highway": "motorway_junction",
+        "ref": "58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6151139,
+          43.7586985
+        ]
+      },
+      "id": "node/36532943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36533097",
+        "highway": "motorway_junction",
+        "noref": "yes",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6384784,
+          43.7518653
+        ]
+      },
+      "id": "node/36533097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36533143",
+        "highway": "motorway_junction",
+        "ref": "58",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6434925,
+          43.7479625
+        ]
+      },
+      "id": "node/36533143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36533692",
+        "highway": "motorway_junction",
+        "ref": "19A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.632535,
+          43.7583974
+        ]
+      },
+      "id": "node/36533692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36533755",
+        "highway": "motorway_junction",
+        "noref": "yes",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6232319,
+          43.7572736
+        ]
+      },
+      "id": "node/36533755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36533990",
+        "highway": "motorway_junction",
+        "ref": "59",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6329104,
+          43.7541715
+        ]
+      },
+      "id": "node/36533990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/37376712",
+        "highway": "motorway_junction",
+        "ref": "383",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2301741,
+          43.7874508
+        ]
+      },
+      "id": "node/37376712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/38067020",
+        "highway": "motorway_junction",
+        "ref": "383",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.24035,
+          43.7838921
+        ]
+      },
+      "id": "node/38067020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/39600150",
+        "highway": "motorway_junction",
+        "ref": "88"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3146819,
+          43.8484575
+        ]
+      },
+      "id": "node/39600150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60408512",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.572889,
+          43.6734669
+        ]
+      },
+      "id": "node/60408512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60408638",
+        "highway": "motorway_junction",
+        "ref": "352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5749789,
+          43.6825138
+        ]
+      },
+      "id": "node/60408638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60408692",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5679102,
+          43.6558824
+        ]
+      },
+      "id": "node/60408692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60408700",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5728373,
+          43.6675065
+        ]
+      },
+      "id": "node/60408700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60408702",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5732649,
+          43.6698343
+        ]
+      },
+      "id": "node/60408702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60408743",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5728824,
+          43.6649582
+        ]
+      },
+      "id": "node/60408743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60408762",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5734396,
+          43.6725549
+        ]
+      },
+      "id": "node/60408762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60408786",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5712631,
+          43.6738511
+        ]
+      },
+      "id": "node/60408786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60948157",
+        "highway": "motorway_junction",
+        "ref": "154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3874545,
+          43.6394815
+        ]
+      },
+      "id": "node/60948157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60948192",
+        "highway": "motorway_junction",
+        "ref": "145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4707586,
+          43.6347321
+        ]
+      },
+      "id": "node/60948192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/63555161",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4161739,
+          43.7472146
+        ]
+      },
+      "id": "node/63555161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/63555446",
+        "highway": "motorway_junction",
+        "ref": "367",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4202624,
+          43.744646
+        ]
+      },
+      "id": "node/63555446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/63726669",
+        "highway": "motorway_junction",
+        "ref": "371",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3927643,
+          43.7616763
+        ]
+      },
+      "id": "node/63726669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/63726835",
+        "highway": "motorway_junction",
+        "ref": "371",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3804463,
+          43.7649555
+        ]
+      },
+      "id": "node/63726835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/76477995",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6323496,
+          43.6189889
+        ]
+      },
+      "id": "node/76477995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/76478001",
+        "highway": "motorway_junction",
+        "ref": "121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6391013,
+          43.6230719
+        ]
+      },
+      "id": "node/76478001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/76478060",
+        "highway": "motorway_junction",
+        "ref": "122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6424082,
+          43.6254975
+        ]
+      },
+      "id": "node/76478060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/76478070",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6384915,
+          43.6207307
+        ]
+      },
+      "id": "node/76478070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/76478119",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6380117,
+          43.6231064
+        ]
+      },
+      "id": "node/76478119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/76478134",
+        "highway": "motorway_junction",
+        "ref": "121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6345705,
+          43.6098217
+        ]
+      },
+      "id": "node/76478134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/76478138",
+        "highway": "motorway_junction",
+        "ref": "119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6405435,
+          43.6046124
+        ]
+      },
+      "id": "node/76478138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/76478142",
+        "highway": "motorway_junction",
+        "ref": "119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6484342,
+          43.5967657
+        ]
+      },
+      "id": "node/76478142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/76478149",
+        "highway": "motorway_junction",
+        "ref": "117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6664979,
+          43.5798692
+        ]
+      },
+      "id": "node/76478149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/76478418",
+        "highway": "motorway_junction",
+        "ref": "106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6877077,
+          43.5088387
+        ]
+      },
+      "id": "node/76478418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/76484675",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6622958,
+          43.5832925
+        ]
+      },
+      "id": "node/76484675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/88576242",
+        "highway": "motorway_junction",
+        "ref": "77"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4357774,
+          43.8316847
+        ]
+      },
+      "id": "node/88576242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/95619256",
+        "highway": "motorway_junction",
+        "ref": "19B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6314725,
+          43.7534126
+        ]
+      },
+      "id": "node/95619256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/95634273",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5646668,
+          43.6498197
+        ]
+      },
+      "id": "node/95634273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/95634419",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5531761,
+          43.6185834
+        ]
+      },
+      "id": "node/95634419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/95634459",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5492149,
+          43.6145552
+        ]
+      },
+      "id": "node/95634459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/95634500",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5574937,
+          43.6320364
+        ]
+      },
+      "id": "node/95634500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/95634608",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5486041,
+          43.611014
+        ]
+      },
+      "id": "node/95634608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/139218119",
+        "highway": "motorway_junction",
+        "note": "2 lane exit, left lane of exit splits",
+        "ref": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3749221,
+          43.8643443
+        ]
+      },
+      "id": "node/139218119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/139221332",
+        "highway": "motorway_junction",
+        "ref": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3783141,
+          43.8781917
+        ]
+      },
+      "id": "node/139221332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/139223909",
+        "highway": "motorway_junction",
+        "ref": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3815677,
+          43.8895584
+        ]
+      },
+      "id": "node/139223909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/139232345",
+        "highway": "motorway_junction",
+        "ref": "33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3826332,
+          43.8956274
+        ]
+      },
+      "id": "node/139232345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/147147467",
+        "highway": "motorway_junction",
+        "noref": "yes",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6966347,
+          43.6747933
+        ]
+      },
+      "id": "node/147147467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/147147546",
+        "highway": "motorway_junction",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6914569,
+          43.6626448
+        ]
+      },
+      "id": "node/147147546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/152562847",
+        "highway": "motorway_junction",
+        "ref": "25",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5293583,
+          43.7498021
+        ]
+      },
+      "id": "node/152562847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/152571818",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5330128,
+          43.7549742
+        ]
+      },
+      "id": "node/152571818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/202263930",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5549382,
+          43.6249827
+        ]
+      },
+      "id": "node/202263930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/202278078",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5653226,
+          43.6487213
+        ]
+      },
+      "id": "node/202278078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/208533377",
+        "highway": "motorway_junction",
+        "ref": "153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.387793,
+          43.6395218
+        ]
+      },
+      "id": "node/208533377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/208539709",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3727687,
+          43.6454458
+        ]
+      },
+      "id": "node/208539709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/208636321",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.456407,
+          43.7273171
+        ]
+      },
+      "id": "node/208636321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/247951235",
+        "highway": "motorway_junction",
+        "ref": "357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5414247,
+          43.7117488
+        ]
+      },
+      "id": "node/247951235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/247951300",
+        "highway": "motorway_junction",
+        "ref": "355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5433853,
+          43.711694
+        ]
+      },
+      "id": "node/247951300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/247951327",
+        "highway": "motorway_junction",
+        "noref": "yes",
+        "source": "CanMatrix (c) Natural Resource Canada All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.55014,
+          43.7106061
+        ]
+      },
+      "id": "node/247951327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/247951386",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5539404,
+          43.7111231
+        ]
+      },
+      "id": "node/247951386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/249710167",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5653372,
+          43.6515324
+        ]
+      },
+      "id": "node/249710167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/249722104",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2954732,
+          43.772712
+        ]
+      },
+      "id": "node/249722104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/249723726",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.264425,
+          43.7794109
+        ]
+      },
+      "id": "node/249723726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/249725516",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2235186,
+          43.7901618
+        ]
+      },
+      "id": "node/249725516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252358566",
+        "highway": "motorway_junction",
+        "ref": "59",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6082225,
+          43.7603883
+        ]
+      },
+      "id": "node/252358566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253345453",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5690394,
+          43.693337
+        ]
+      },
+      "id": "node/253345453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253346192",
+        "highway": "motorway_junction",
+        "old_ref": "46",
+        "ref": "354",
+        "source": "CanMatrix (c) Natural Resource Canada All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5710393,
+          43.6886296
+        ]
+      },
+      "id": "node/253346192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253354925",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5887643,
+          43.6968492
+        ]
+      },
+      "id": "node/253354925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253355307",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5921788,
+          43.6968584
+        ]
+      },
+      "id": "node/253355307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253356281",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.611502,
+          43.6916679
+        ]
+      },
+      "id": "node/253356281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253357216",
+        "guidepost": "overhead",
+        "highway": "motorway_junction",
+        "noref": "yes",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6003493,
+          43.6857401
+        ]
+      },
+      "id": "node/253357216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253359868",
+        "highway": "motorway_junction",
+        "ref": "53",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6749886,
+          43.7209844
+        ]
+      },
+      "id": "node/253359868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/257893676",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2426523,
+          43.7838834
+        ]
+      },
+      "id": "node/257893676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/257902742",
+        "highway": "motorway_junction",
+        "ref": "54",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6572577,
+          43.7385132
+        ]
+      },
+      "id": "node/257902742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/259741688",
+        "highway": "motorway_junction",
+        "ref": "69",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5044021,
+          43.7905497
+        ]
+      },
+      "id": "node/259741688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/259750092",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3411888,
+          43.7789068
+        ]
+      },
+      "id": "node/259750092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/259750118",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3376979,
+          43.7764597
+        ]
+      },
+      "id": "node/259750118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/261681529",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4470136,
+          43.7238717
+        ]
+      },
+      "id": "node/261681529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/261690714",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4592913,
+          43.7267097
+        ]
+      },
+      "id": "node/261690714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266593509",
+        "highway": "motorway_junction",
+        "ref": "394",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1199303,
+          43.8127585
+        ]
+      },
+      "id": "node/266593509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/267079953",
+        "highway": "motorway_junction",
+        "ref": "357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5307636,
+          43.7148503
+        ]
+      },
+      "id": "node/267079953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280212163",
+        "highway": "motorway_junction",
+        "ref": "104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6785696,
+          43.5024855
+        ]
+      },
+      "id": "node/280212163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280217900",
+        "highway": "motorway_junction",
+        "ref": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6150284,
+          43.5517106
+        ]
+      },
+      "id": "node/280217900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280218009",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6181446,
+          43.5509523
+        ]
+      },
+      "id": "node/280218009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/291600206",
+        "highway": "motorway_junction",
+        "ref": "46",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6944862,
+          43.6782089
+        ]
+      },
+      "id": "node/291600206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/298543759",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6181982,
+          43.7178587
+        ]
+      },
+      "id": "node/298543759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/298543813",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.622942,
+          43.7229742
+        ]
+      },
+      "id": "node/298543813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/298553218",
+        "highway": "motorway_junction",
+        "ref": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6285591,
+          43.7391976
+        ]
+      },
+      "id": "node/298553218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/298553350",
+        "highway": "motorway_junction",
+        "ref": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6260474,
+          43.7296963
+        ]
+      },
+      "id": "node/298553350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301331368",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5616419,
+          43.640523
+        ]
+      },
+      "id": "node/301331368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301331557",
+        "highway": "motorway_junction",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5605353,
+          43.6399644
+        ]
+      },
+      "id": "node/301331557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/310322630",
+        "highway": "motorway_junction",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6847567,
+          43.6575981
+        ]
+      },
+      "id": "node/310322630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/310322757",
+        "highway": "motorway_junction",
+        "old_ref": "3",
+        "ref": "3;2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6988598,
+          43.6676388
+        ]
+      },
+      "id": "node/310322757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/310322784",
+        "highway": "motorway_junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6939153,
+          43.6627319
+        ]
+      },
+      "id": "node/310322784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313081854",
+        "highway": "motorway_junction",
+        "note": "2 lane exit; left lane of exit splits",
+        "ref": "126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.643115,
+          43.5287654
+        ]
+      },
+      "id": "node/313081854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313082415",
+        "highway": "motorway_junction",
+        "ref": "126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6515533,
+          43.5207245
+        ]
+      },
+      "id": "node/313082415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315023679",
+        "highway": "motorway_junction",
+        "ref": "86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3373563,
+          43.8436291
+        ]
+      },
+      "id": "node/315023679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315023792",
+        "highway": "motorway_junction",
+        "ref": "86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3230009,
+          43.8468876
+        ]
+      },
+      "id": "node/315023792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317606110",
+        "highway": "motorway_junction",
+        "ref": "106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6993147,
+          43.5151617
+        ]
+      },
+      "id": "node/317606110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318268330",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6196056,
+          43.6557228
+        ]
+      },
+      "id": "node/318268330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318268599",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6081362,
+          43.662506
+        ]
+      },
+      "id": "node/318268599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319036030",
+        "highway": "motorway_junction",
+        "ref": "92"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2527758,
+          43.8653197
+        ]
+      },
+      "id": "node/319036030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319111582",
+        "highway": "motorway_junction",
+        "ref": "94",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2400129,
+          43.8687723
+        ]
+      },
+      "id": "node/319111582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319111720",
+        "highway": "motorway_junction",
+        "ref": "94",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2266167,
+          43.872086
+        ]
+      },
+      "id": "node/319111720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319112962",
+        "highway": "motorway_junction",
+        "ref": "90"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2751607,
+          43.8576265
+        ]
+      },
+      "id": "node/319112962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319113003",
+        "highway": "motorway_junction",
+        "ref": "90"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2874313,
+          43.8547787
+        ]
+      },
+      "id": "node/319113003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319324472",
+        "highway": "motorway_junction",
+        "ref": "98"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1826807,
+          43.8945398
+        ]
+      },
+      "id": "node/319324472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319968069",
+        "highway": "motorway_junction",
+        "ref": "124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6675189,
+          43.5060912
+        ]
+      },
+      "id": "node/319968069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319968521",
+        "highway": "motorway_junction",
+        "note": "2 lane exit; left lane of exit splits",
+        "ref": "124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6600149,
+          43.5133783
+        ]
+      },
+      "id": "node/319968521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/320103688",
+        "guidepost": "overhead",
+        "highway": "motorway_junction",
+        "ref": "134",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5856401,
+          43.5811072
+        ]
+      },
+      "id": "node/320103688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/320103709",
+        "highway": "motorway_junction",
+        "ref": "134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5805825,
+          43.586011
+        ]
+      },
+      "id": "node/320103709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/320104051",
+        "highway": "motorway_junction",
+        "ref": "132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6032352,
+          43.5649251
+        ]
+      },
+      "id": "node/320104051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/343008384",
+        "highway": "motorway_junction",
+        "ref": "359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5278601,
+          43.7151205
+        ]
+      },
+      "id": "node/343008384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/345861611",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6106263,
+          43.6931015
+        ]
+      },
+      "id": "node/345861611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/345944844",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6074381,
+          43.6854069
+        ]
+      },
+      "id": "node/345944844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/345949247",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6039134,
+          43.6858272
+        ]
+      },
+      "id": "node/345949247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/375313672",
+        "highway": "motorway_junction",
+        "ref": "132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5965313,
+          43.5715152
+        ]
+      },
+      "id": "node/375313672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/379765447",
+        "highway": "motorway_junction",
+        "note": "second lane from right splits",
+        "ref": "397",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0836211,
+          43.8331793
+        ]
+      },
+      "id": "node/379765447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/380612644",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5616508,
+          43.6426375
+        ]
+      },
+      "id": "node/380612644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/383283020",
+        "guidepost": "overhead",
+        "highway": "motorway_junction",
+        "ref": "77",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4208171,
+          43.8376173
+        ]
+      },
+      "id": "node/383283020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/386132318",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5662283,
+          43.6507641
+        ]
+      },
+      "id": "node/386132318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/391883180",
+        "highway": "motorway_junction",
+        "ref": "63"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5758099,
+          43.7716325
+        ]
+      },
+      "id": "node/391883180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/391895371",
+        "highway": "motorway_junction",
+        "ref": "63"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5636375,
+          43.7769469
+        ]
+      },
+      "id": "node/391895371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/392151573",
+        "highway": "motorway_junction",
+        "ref": "33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.546932,
+          43.833177
+        ]
+      },
+      "id": "node/392151573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/411401042",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6076898,
+          43.6972221
+        ]
+      },
+      "id": "node/411401042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/420888042",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.647215,
+          43.6303493
+        ]
+      },
+      "id": "node/420888042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/430845147",
+        "highway": "motorway_junction",
+        "ref": "25",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.53204,
+          43.7594594
+        ]
+      },
+      "id": "node/430845147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492013361",
+        "highway": "motorway_junction",
+        "ref": "48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6925985,
+          43.6825561
+        ]
+      },
+      "id": "node/492013361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492013393",
+        "highway": "motorway_junction",
+        "maxspeed": "100",
+        "ref": "48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6885052,
+          43.6925547
+        ]
+      },
+      "id": "node/492013393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/520873732",
+        "highway": "motorway_junction",
+        "ref": "136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5644642,
+          43.6008506
+        ]
+      },
+      "id": "node/520873732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/529353976",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5560452,
+          43.7061881
+        ]
+      },
+      "id": "node/529353976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/583411836",
+        "highway": "motorway_junction",
+        "ref": "404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0216345,
+          43.853129
+        ]
+      },
+      "id": "node/583411836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/696644460",
+        "highway": "motorway_junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.529863,
+          43.6170351
+        ]
+      },
+      "id": "node/696644460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/934209528",
+        "highway": "motorway_junction",
+        "ref": "95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2076018,
+          43.8761158
+        ]
+      },
+      "id": "node/934209528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/934209546",
+        "highway": "motorway_junction",
+        "ref": "95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2191661,
+          43.8733044
+        ]
+      },
+      "id": "node/934209546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1339099026",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3321453,
+          43.7232764
+        ]
+      },
+      "id": "node/1339099026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1368520331",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3395646,
+          43.7735156
+        ]
+      },
+      "id": "node/1368520331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1381245510",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3283633,
+          43.7230565
+        ]
+      },
+      "id": "node/1381245510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1381298321",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4490998,
+          43.7288147
+        ]
+      },
+      "id": "node/1381298321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1381299231",
+        "highway": "motorway_junction",
+        "ref": "366",
+        "source": "CanMatrix © Department of Natural Resources Canada. All rights reserved."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4345649,
+          43.7359125
+        ]
+      },
+      "id": "node/1381299231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1381324287",
+        "highway": "motorway_junction",
+        "ref": "359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5283086,
+          43.714794
+        ]
+      },
+      "id": "node/1381324287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1385397925",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6341663,
+          43.6224869
+        ]
+      },
+      "id": "node/1385397925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1385397985",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6513871,
+          43.6341979
+        ]
+      },
+      "id": "node/1385397985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1433175168",
+        "highway": "motorway_junction",
+        "ref": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6164916,
+          43.5504698
+        ]
+      },
+      "id": "node/1433175168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1463159828",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6769502,
+          43.6333134
+        ]
+      },
+      "id": "node/1463159828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1463159831",
+        "highway": "motorway_junction",
+        "ref": "342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6729306,
+          43.6349419
+        ]
+      },
+      "id": "node/1463159831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1541575300",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5937519,
+          43.6673261
+        ]
+      },
+      "id": "node/1541575300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1546658908",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5548059,
+          43.6279923
+        ]
+      },
+      "id": "node/1546658908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1553144380",
+        "highway": "motorway_junction",
+        "ref": "155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3797671,
+          43.6421672
+        ]
+      },
+      "id": "node/1553144380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1564504387",
+        "highway": "motorway_junction",
+        "ref": "12A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3319634,
+          43.7367686
+        ]
+      },
+      "id": "node/1564504387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1566762724",
+        "highway": "motorway_junction",
+        "ref": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3642642,
+          43.8293668
+        ]
+      },
+      "id": "node/1566762724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1576439742",
+        "highway": "motorway_junction",
+        "ref": "342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.669415,
+          43.6358414
+        ]
+      },
+      "id": "node/1576439742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1590264535",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3338138,
+          43.7584741
+        ]
+      },
+      "id": "node/1590264535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1590264561",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3367429,
+          43.7643346
+        ]
+      },
+      "id": "node/1590264561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1590280324",
+        "highway": "motorway_junction",
+        "unsigned_ref": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3366445,
+          43.7626328
+        ]
+      },
+      "id": "node/1590280324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1590306772",
+        "highway": "motorway_junction",
+        "ref": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3714357,
+          43.8482159
+        ]
+      },
+      "id": "node/1590306772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1590306846",
+        "highway": "motorway_junction",
+        "note": "2 lane exit, left lane of exit splits",
+        "ref": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3684616,
+          43.8402703
+        ]
+      },
+      "id": "node/1590306846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1591980078",
+        "highway": "motorway_junction",
+        "unsigned_ref": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3407965,
+          43.7813256
+        ]
+      },
+      "id": "node/1591980078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1591980139",
+        "highway": "motorway_junction",
+        "ref": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.358077,
+          43.8158958
+        ]
+      },
+      "id": "node/1591980139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1592086855",
+        "highway": "motorway_junction",
+        "ref": "18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3394044,
+          43.7757536
+        ]
+      },
+      "id": "node/1592086855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1595684837",
+        "highway": "motorway_junction",
+        "ref": "12A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3322348,
+          43.7372537
+        ]
+      },
+      "id": "node/1595684837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1615037687",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.614465,
+          43.7082113
+        ]
+      },
+      "id": "node/1615037687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1630272797",
+        "highway": "motorway_junction",
+        "motorway": "junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5214875,
+          43.7198403
+        ]
+      },
+      "id": "node/1630272797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1640077452",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5564823,
+          43.8797048
+        ]
+      },
+      "id": "node/1640077452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1754065107",
+        "guidepost": "overhead",
+        "highway": "motorway_junction",
+        "ref": "373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3704472,
+          43.7656858
+        ]
+      },
+      "id": "node/1754065107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1754184665",
+        "highway": "motorway_junction",
+        "ref": "98"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1892682,
+          43.8865857
+        ]
+      },
+      "id": "node/1754184665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1889323368",
+        "highway": "motorway_junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6121741,
+          43.6865215
+        ]
+      },
+      "id": "node/1889323368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1945506328",
+        "highway": "motorway_junction",
+        "ref": "69",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4902572,
+          43.7951283
+        ]
+      },
+      "id": "node/1945506328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1975505551",
+        "highway": "motorway_junction",
+        "ref": "73",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4796711,
+          43.8107802
+        ]
+      },
+      "id": "node/1975505551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1975505622",
+        "highway": "motorway_junction",
+        "ref": "73",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4712146,
+          43.8223526
+        ]
+      },
+      "id": "node/1975505622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2025468656",
+        "highway": "motorway_junction",
+        "ref": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3357683,
+          43.7579808
+        ]
+      },
+      "id": "node/2025468656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2026568138",
+        "highway": "motorway_junction",
+        "ref": "12B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3322728,
+          43.7413302
+        ]
+      },
+      "id": "node/2026568138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2034931953",
+        "highway": "motorway_junction",
+        "ref": "12B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3320843,
+          43.7406403
+        ]
+      },
+      "id": "node/2034931953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2038506816",
+        "highway": "motorway_junction",
+        "ref": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3291998,
+          43.7206179
+        ]
+      },
+      "id": "node/2038506816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2038506920",
+        "highway": "motorway_junction",
+        "ref": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3307278,
+          43.7292606
+        ]
+      },
+      "id": "node/2038506920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2043419022",
+        "highway": "motorway_junction",
+        "ref": "7B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3366031,
+          43.7006454
+        ]
+      },
+      "id": "node/2043419022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2043419168",
+        "highway": "motorway_junction",
+        "ref": "7B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3341355,
+          43.7017936
+        ]
+      },
+      "id": "node/2043419168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2057182576",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3674251,
+          43.6791396
+        ]
+      },
+      "id": "node/2057182576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2057182695",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3685698,
+          43.6784024
+        ]
+      },
+      "id": "node/2057182695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2131495587",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5925032,
+          43.6762208
+        ]
+      },
+      "id": "node/2131495587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2131728888",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6093154,
+          43.695695
+        ]
+      },
+      "id": "node/2131728888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164826721",
+        "highway": "motorway_junction",
+        "noref": "yes",
+        "source": "GeoBase NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6949126,
+          43.6661701
+        ]
+      },
+      "id": "node/2164826721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2244050240",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5587457,
+          43.8899534
+        ]
+      },
+      "id": "node/2244050240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2258710645",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3491808,
+          43.6535571
+        ]
+      },
+      "id": "node/2258710645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2261930321",
+        "highway": "motorway_junction",
+        "note": "Right lane must exit",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.354674,
+          43.6602964
+        ]
+      },
+      "id": "node/2261930321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2295972054",
+        "flood_prone": "yes",
+        "highway": "motorway_junction",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3619059,
+          43.6831643
+        ]
+      },
+      "id": "node/2295972054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2383882755",
+        "highway": "motorway_junction",
+        "ref": "350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5880629,
+          43.6697074
+        ]
+      },
+      "id": "node/2383882755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2383892888",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5685569,
+          43.6741113
+        ]
+      },
+      "id": "node/2383892888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714580471",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6909409,
+          43.6273662
+        ]
+      },
+      "id": "node/2714580471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2771660436",
+        "highway": "motorway_junction",
+        "ref": "146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4691291,
+          43.6356481
+        ]
+      },
+      "id": "node/2771660436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3086358024",
+        "highway": "motorway_junction",
+        "ref": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3447591,
+          43.7992995
+        ]
+      },
+      "id": "node/3086358024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3171159581",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6857933,
+          43.6280979
+        ]
+      },
+      "id": "node/3171159581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3843529130",
+        "highway": "motorway_junction",
+        "ref": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6331365,
+          43.7656861
+        ]
+      },
+      "id": "node/3843529130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4467627671",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6056142,
+          43.6844717
+        ]
+      },
+      "id": "node/4467627671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4569824000",
+        "highway": "motorway_junction",
+        "ref": "37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5531241,
+          43.86542
+        ]
+      },
+      "id": "node/4569824000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4698329903",
+        "highway": "motorway_junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6563559,
+          43.8213157
+        ]
+      },
+      "id": "node/4698329903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4742998892",
+        "guidepost": "overhead",
+        "highway": "motorway_junction",
+        "ref": "123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6704517,
+          43.5038218
+        ]
+      },
+      "id": "node/4742998892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5764710138",
+        "highway": "motorway_junction",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6732199,
+          43.6491579
+        ]
+      },
+      "id": "node/5764710138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5960572545",
+        "flood_prone": "yes",
+        "highway": "motorway_junction",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3616299,
+          43.6841146
+        ]
+      },
+      "id": "node/5960572545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6655405021",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6084706,
+          43.6967463
+        ]
+      },
+      "id": "node/6655405021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7467260189",
+        "highway": "motorway_junction",
+        "ref": "33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.545661,
+          43.82276
+        ]
+      },
+      "id": "node/7467260189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7512508884",
+        "highway": "motorway_junction",
+        "ref": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6407402,
+          43.8019992
+        ]
+      },
+      "id": "node/7512508884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7512534365",
+        "highway": "motorway_junction",
+        "ref": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6508945,
+          43.8111495
+        ]
+      },
+      "id": "node/7512534365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7512548592",
+        "highway": "motorway_junction",
+        "ref": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6390386,
+          43.7957472
+        ]
+      },
+      "id": "node/7512548592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7512672595",
+        "highway": "motorway_junction",
+        "ref": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6365406,
+          43.7848557
+        ]
+      },
+      "id": "node/7512672595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7512672600",
+        "highway": "motorway_junction",
+        "ref": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6351139,
+          43.7751662
+        ]
+      },
+      "id": "node/7512672600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7895315460",
+        "highway": "motorway_junction",
+        "ref": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.535135,
+          43.7740326
+        ]
+      },
+      "id": "node/7895315460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9426717928",
+        "highway": "motorway_junction",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6842403,
+          43.656447
+        ]
+      },
+      "id": "node/9426717928"
+    }
+  ]
+}

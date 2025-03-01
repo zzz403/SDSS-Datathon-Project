@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-03-01T18:44:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/144339301",
+        "addr:city": "Toronto",
+        "addr:housenumber": "21",
+        "addr:postcode": "M5S 1J6",
+        "addr:street": "Sussex Avenue",
+        "amenity": "police",
+        "name": "University of Toronto Campus Police",
+        "phone": "+1-416-978-2323;+1-416-978-2222",
+        "website": "https://campuspolice.utoronto.ca/",
+        "wheelchair": "designated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4009793,
+          43.6648653
+        ]
+      },
+      "id": "node/144339301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/267315461",
+        "addr:city": "Toronto",
+        "addr:housenumber": "259",
+        "addr:postcode": "M5V 1A2",
+        "addr:street": "Queens Quay West",
+        "amenity": "police",
+        "name": "Toronto Police Marine Unit",
+        "operator": "Toronto Police Service",
+        "operator:wikidata": "Q1521097",
+        "operator:wikipedia": "en:Toronto Police Service",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0.",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3860574,
+          43.6379565
+        ]
+      },
+      "id": "node/267315461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/392181126",
+        "amenity": "police",
+        "level": "1",
+        "name": "Peel Police Community Police Station",
+        "operator": "Peel Region Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6450639,
+          43.5930215
+        ]
+      },
+      "id": "node/392181126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/723327998",
+        "addr:city": "Toronto",
+        "addr:housenumber": "9",
+        "addr:postcode": "M6K 1W8",
+        "addr:street": "Hanna Avenue",
+        "amenity": "police",
+        "check_date": "2025-02-25",
+        "name": "Traffic Services",
+        "operator": "Toronto Police Service",
+        "operator:wikidata": "Q1521097",
+        "operator:wikipedia": "en:Toronto Police Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4168994,
+          43.6377253
+        ]
+      },
+      "id": "node/723327998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112337224",
+        "amenity": "police",
+        "name": "Campus Security"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5072248,
+          43.773075
+        ]
+      },
+      "id": "node/1112337224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1651064303",
+        "addr:city": "Toronto",
+        "addr:housenumber": "15",
+        "addr:postcode": "M6K 3C3",
+        "addr:street": "Nova Scotia Avenue",
+        "amenity": "police",
+        "name": "Mounted Police Headquarters",
+        "operator": "Toronto Police Service",
+        "operator:wikidata": "Q1521097",
+        "operator:wikipedia": "en:Toronto Police Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4176536,
+          43.6350192
+        ]
+      },
+      "id": "node/1651064303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1651064376",
+        "addr:city": "North York",
+        "addr:housenumber": "970",
+        "addr:postcode": "M6A 3B6",
+        "addr:street": "Lawrence Avenue West",
+        "amenity": "police",
+        "name": "Toronto Police Services - Parking West",
+        "operator": "Toronto Police Service",
+        "operator:wikidata": "Q1521097",
+        "operator:wikipedia": "en:Toronto Police Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4582923,
+          43.7137633
+        ]
+      },
+      "id": "node/1651064376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1651064396",
+        "addr:city": "North York",
+        "addr:housenumber": "1500",
+        "addr:postcode": "M3B 3K4",
+        "addr:street": "Don Mills Road",
+        "amenity": "police",
+        "name": "Toronto Police Services - Parking East",
+        "operator": "Toronto Police Service",
+        "operator:wikidata": "Q1521097",
+        "operator:wikipedia": "en:Toronto Police Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3479091,
+          43.7549589
+        ]
+      },
+      "id": "node/1651064396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1651064404",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "70",
+        "addr:postcode": "M8V 3W6",
+        "addr:street": "Birmingham Street",
+        "amenity": "police",
+        "name": "22 Division Substation",
+        "operator": "Toronto Police Service",
+        "operator:wikidata": "Q1521097",
+        "operator:wikipedia": "en:Toronto Police Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5034822,
+          43.6050863
+        ]
+      },
+      "id": "node/1651064404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2337211981",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "39",
+        "addr:postcode": "M1R 3C7",
+        "addr:street": "Howden Road",
+        "amenity": "police",
+        "name": "East Collision Reporting Centre",
+        "operator": "Toronto Police Service",
+        "operator:wikidata": "Q1521097",
+        "operator:wikipedia": "en:Toronto Police Service",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2882378,
+          43.749558
+        ]
+      },
+      "id": "node/2337211981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2337214598",
+        "addr:city": "North York",
+        "addr:housenumber": "113",
+        "addr:postcode": "M9L 1X9",
+        "addr:street": "Toryork Drive",
+        "amenity": "police",
+        "name": "North Collision Reporting Centre",
+        "operator": "Toronto Police Service",
+        "operator:wikidata": "Q1521097",
+        "operator:wikipedia": "en:Toronto Police Service",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.551535,
+          43.7564119
+        ]
+      },
+      "id": "node/2337214598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4490585731",
+        "addr:housenumber": "255",
+        "addr:street": "Attwell Drive",
+        "amenity": "police",
+        "description": "RCMP Toronto Airport detachment",
+        "name": "Royal Canadian Mounted Police",
+        "operator": "Royal Canadian Mounted Police",
+        "operator:short": "RCMP",
+        "operator:wikidata": "Q335175",
+        "operator:wikipedia": "en:Royal Canadian Mounted Police",
+        "phone": "+1-905-405-3750",
+        "short_name": "RCMP",
+        "website": "http://www.rcmp.gc.ca/detach/en/d/615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5886922,
+          43.6950152
+        ]
+      },
+      "id": "node/4490585731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4597111990",
+        "amenity": "police",
+        "name": "Security"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5155279,
+          43.5957484
+        ]
+      },
+      "id": "node/4597111990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6548078845",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6370263,
+          43.7190647
+        ]
+      },
+      "id": "node/6548078845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6589766059",
+        "amenity": "police",
+        "level": "0",
+        "name": "Mall Security"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2591448,
+          43.7757661
+        ]
+      },
+      "id": "node/6589766059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6597466072",
+        "amenity": "police",
+        "level": "0",
+        "name": "Mall Security"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0868902,
+          43.8358618
+        ]
+      },
+      "id": "node/6597466072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12072629314",
+        "amenity": "police",
+        "description": "Summer police substation for 55 divison",
+        "operator": "Toronto Police Service",
+        "operator:wikidata": "Q1521097",
+        "operator:wikipedia": "en:Toronto Police Service",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3045232,
+          43.6648109
+        ]
+      },
+      "id": "node/12072629314"
+    }
+  ]
+}

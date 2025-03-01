@@ -1,0 +1,2676 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-03-01T18:45:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26001540",
+        "addr:city": "Toronto",
+        "addr:housenumber": "777",
+        "addr:postcode": "M6G 1L6",
+        "addr:street": "Bloor Street West",
+        "amenity": "school",
+        "fax": "+1-416-393-0655",
+        "isced:level": "3",
+        "name": "West End Alternative School",
+        "note": "third floor of Bickford Centre",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-0660",
+        "school:language": "english",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0.",
+        "start_date": "1978-09-01",
+        "website": "https://westendalternativeschool.weebly.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4194233,
+          43.6626246
+        ]
+      },
+      "id": "node/26001540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/42606916",
+        "amenity": "school",
+        "isced:level": "0;1;2;3",
+        "name": "Cornerstone Preparatory School",
+        "note": "Private school - preschool - grade 12",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3942141,
+          43.6556033
+        ]
+      },
+      "id": "node/42606916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315662044",
+        "amenity": "school",
+        "name": "Avalon Children's Montessori School",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2965258,
+          43.6715674
+        ]
+      },
+      "id": "node/315662044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/560639597",
+        "addr:city": "Toronto",
+        "addr:housenumber": "906",
+        "addr:street": "Yonge Street",
+        "amenity": "school",
+        "name": "The Dalton School",
+        "website": "https://www.thedaltonschool.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3884794,
+          43.6737954
+        ]
+      },
+      "id": "node/560639597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/599896648",
+        "addr:housenumber": "10515",
+        "addr:street": "Highway 27",
+        "amenity": "school",
+        "name": "Kleinburg Montessori School",
+        "operator:type": "private",
+        "website": "https://www.msk2002.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6306615,
+          43.8422022
+        ]
+      },
+      "id": "node/599896648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/712595018",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "2610",
+        "addr:street": "Birchmount Road",
+        "amenity": "school",
+        "name": "Gateway Montessori School",
+        "opendata:type": "109001",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3028889,
+          43.7906646
+        ]
+      },
+      "id": "node/712595018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/772339429",
+        "amenity": "school",
+        "mascot": "Spartans",
+        "name": "Toronto Prep School",
+        "operator:type": "private",
+        "wikidata": "Q7826476",
+        "wikipedia": "en:Toronto Prep School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3863784,
+          43.7008418
+        ]
+      },
+      "id": "node/772339429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1293985615",
+        "addr:city": "Toronto",
+        "addr:housenumber": "67",
+        "addr:street": "Taunton Road",
+        "amenity": "school",
+        "name": "Taunton School",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.387949,
+          43.7078268
+        ]
+      },
+      "id": "node/1293985615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1328165706",
+        "amenity": "school",
+        "name": "CE Academy",
+        "operator:type": "private",
+        "phone": "+1-905-486-1035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5813847,
+          43.5605927
+        ]
+      },
+      "id": "node/1328165706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1815461163",
+        "amenity": "school",
+        "name": "Forest Grove Montessori School",
+        "phone": "+1-416-225-1666",
+        "school": "montessori"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37952,
+          43.779419
+        ]
+      },
+      "id": "node/1815461163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1946334555",
+        "addr:city": "North York",
+        "addr:housenumber": "200",
+        "addr:street": "Sheppard Avenue East",
+        "amenity": "school",
+        "name": "Toronto Central Academy",
+        "opendata:type": "104008",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4016952,
+          43.7638818
+        ]
+      },
+      "id": "node/1946334555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2329689688",
+        "addr:city": "Toronto",
+        "addr:housenumber": "64",
+        "addr:postcode": "M5T 1L4",
+        "addr:street": "Baldwin Street",
+        "amenity": "school",
+        "fax": "+1-416-393-8163",
+        "isced:level": "3",
+        "name": "Subway Academy II",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-1445",
+        "school:language": "english",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0.",
+        "start_date": "1976-09-01",
+        "website": "https://schoolweb.tdsb.on.ca/subwayacademy2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3957299,
+          43.6558169
+        ]
+      },
+      "id": "node/2329689688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2332638609",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "109",
+        "addr:postcode": "M1S 2R7",
+        "addr:street": "Chartland Boulevard South",
+        "amenity": "school",
+        "fax": "+1-416-396-6484",
+        "isced:level": "3",
+        "name": "Delphi Secondary Alternative School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "school:language": "english",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0.",
+        "start_date": "2004-09-01",
+        "website": "https://schoolweb.tdsb.on.ca/delphi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2780096,
+          43.8000753
+        ]
+      },
+      "id": "node/2332638609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2332655258",
+        "addr:city": "Toronto",
+        "addr:housenumber": "83",
+        "addr:postcode": "M4Y 1B7",
+        "addr:street": "Alexander Street",
+        "amenity": "school",
+        "fax": "+1-416-969-9251",
+        "isced:level": "3",
+        "name": "Native Learning Centre",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-969-8510",
+        "school:language": "english",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0.",
+        "start_date": "1999-09-01",
+        "website": "https://www.tdsb.on.ca/schools/tdsb_school_search/SearchBySchool.asp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3795909,
+          43.6635102
+        ]
+      },
+      "id": "node/2332655258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2332655757",
+        "addr:city": "Toronto",
+        "addr:housenumber": "635",
+        "addr:postcode": "M5V 3G3",
+        "addr:street": "Queen's Quay West",
+        "amenity": "school",
+        "fax": "+1-416-393-8181",
+        "isced:level": "3",
+        "name": "City School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-1470",
+        "school:language": "english",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0.",
+        "start_date": "1980-06-30",
+        "website": "https://www.cityschooltoronto.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3971291,
+          43.6358793
+        ]
+      },
+      "id": "node/2332655757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2333868792",
+        "addr:city": "Toronto",
+        "addr:housenumber": "85",
+        "addr:postcode": "M5E 1R8",
+        "addr:street": "Lower Jarvis Street",
+        "amenity": "school",
+        "fax": "+1-416-393-1883",
+        "isced:level": "1",
+        "name": "Downtown Alternative School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-1882",
+        "school:language": "english",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0.",
+        "start_date": "1980-06-30",
+        "website": "https://schoolweb.tdsb.on.ca/downtownalt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.370378,
+          43.6477437
+        ]
+      },
+      "id": "node/2333868792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2334639726",
+        "addr:city": "Toronto",
+        "addr:housenumber": "885",
+        "addr:postcode": "M4M 1R4",
+        "addr:street": "Dundas Street East",
+        "amenity": "school",
+        "fax": "+1-416-393-0565",
+        "isced:level": "3",
+        "name": "SEED Alternative School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-0564",
+        "school:language": "english",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0.",
+        "start_date": "1970-10-05",
+        "website": "https://www.tdsb.on.ca/schools/index.asp?schno=5596",
+        "wikidata": "Q7389650",
+        "wikipedia": "en:SEED Alternative School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3502603,
+          43.6620445
+        ]
+      },
+      "id": "node/2334639726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2334698868",
+        "addr:city": "North York",
+        "addr:housenumber": "2900",
+        "addr:postcode": "M2J 3B6",
+        "addr:street": "Don Mills Road",
+        "amenity": "school",
+        "isced:level": "3",
+        "name": "North East Year Round Alternative Centre",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "school:language": "english",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0.",
+        "start_date": "2006-09-05",
+        "website": "https://www.tdsb.on.ca/MOSS/asp_apps/school_landing_page/index.asp?schno=3948&Status=L"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3502529,
+          43.7823244
+        ]
+      },
+      "id": "node/2334698868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2336591008",
+        "addr:city": "Toronto",
+        "addr:housenumber": "20",
+        "addr:postcode": "M5V 2M1",
+        "addr:street": "Brant Street",
+        "amenity": "school",
+        "fax": "+1-416-393-8280",
+        "isced:level": "3",
+        "name": "Oasis Alternative Secondary School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-9830",
+        "school:language": "english",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0.",
+        "start_date": "1990-09-01",
+        "website": "http://oasisartsandsocialchangeprogram.blogspot.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3982244,
+          43.6457315
+        ]
+      },
+      "id": "node/2336591008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2336690053",
+        "addr:city": "Toronto",
+        "addr:housenumber": "720",
+        "addr:postcode": "M1K 4C9",
+        "addr:street": "Midland Avenue",
+        "amenity": "school",
+        "fax": "+1-416-396-6739",
+        "isced:level": "3",
+        "name": "Scarborough Centre for Alternative Studies",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-396-6921",
+        "school:language": "english",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0.",
+        "start_date": "1986-09-01",
+        "website": "http://www.scasonline.com",
+        "wikidata": "Q14875415",
+        "wikipedia": "en:Scarborough Centre for Alternative Studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2565016,
+          43.7276394
+        ]
+      },
+      "id": "node/2336690053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2336695931",
+        "addr:city": "Toronto",
+        "addr:housenumber": "16",
+        "addr:postcode": "M4J 3T2",
+        "addr:street": "Phin Avenue",
+        "amenity": "school",
+        "fax": "+1-416-393-9469",
+        "isced:level": "3",
+        "name": "Subway Academy I",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-9466",
+        "school:language": "english",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0.",
+        "start_date": "1974-09-03",
+        "website": "http://subwayacademyone.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3366385,
+          43.6791507
+        ]
+      },
+      "id": "node/2336695931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2391853334",
+        "addr:city": "Toronto",
+        "addr:housenumber": "25",
+        "addr:postcode": "M4K 1E5",
+        "addr:street": "Bain Avenue",
+        "amenity": "school",
+        "fax": "+1-416-393-9902",
+        "isced:level": "2",
+        "name": "Quest Alternative Senior School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-9430",
+        "school:language": "english",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0.",
+        "start_date": "1983-09-01",
+        "website": "https://schoolweb.tdsb.on.ca/quest/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3518463,
+          43.6705407
+        ]
+      },
+      "id": "node/2391853334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2461723494",
+        "amenity": "school",
+        "name": "Blyth Academy - Yorkville Campus",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3868159,
+          43.6682517
+        ]
+      },
+      "id": "node/2461723494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2526930692",
+        "addr:city": "Thornhill",
+        "addr:housenumber": "1000",
+        "addr:postcode": "L4J 8G3",
+        "addr:street": "New Westminster Drive",
+        "addr:unit": "103",
+        "amenity": "school",
+        "fax": "+1-905-882-2450",
+        "isced:level": "3",
+        "mascot": "Wolves",
+        "name": "Westmount Collegiate Institute",
+        "operator": "York Region District School Board",
+        "operator:short": "YRDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q5275021",
+        "operator:wikipedia": "en:York Region District School Board",
+        "phone": "+1-905-882-0277",
+        "school:language": "english",
+        "start_date": "1996-09-01",
+        "website": "http://westmount.ci.yrdsb.ca/",
+        "wikidata": "Q7989323",
+        "wikipedia": "en:Westmount Collegiate Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4534713,
+          43.8178703
+        ]
+      },
+      "id": "node/2526930692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2619196389",
+        "addr:city": "Toronto",
+        "addr:housenumber": "21",
+        "addr:postcode": "M4J 1A7",
+        "addr:street": "Boultbee Avenue",
+        "amenity": "school",
+        "fax": "+1-416-393-8627",
+        "isced:level": "2",
+        "name": "East Alternative School of Toronto",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-8442",
+        "school:language": "english",
+        "source": "Contains public sector Datasets made available under the City of Toronto's Open Data License v2.0.",
+        "start_date": "1996-09-01",
+        "website": "https://www.tdsb.on.ca/MOSS/asp_apps/school_landing_page/index.asp?schno=5290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3382977,
+          43.6721443
+        ]
+      },
+      "id": "node/2619196389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3740785317",
+        "addr:city": "North York",
+        "addr:floor": "-1",
+        "addr:housename": "Church of the Ascencion",
+        "addr:housenumber": "33",
+        "addr:neighbourhood": "Don Mills",
+        "addr:postcode": "M3C 2C3",
+        "addr:street": "Overland Drive",
+        "amenity": "school",
+        "description": "Toddlers to Junior Kindergarten and Senior Kindergarten, Grade 1 to Grade 12",
+        "email": "admin@senecahill.ca",
+        "fax": "+1-416-499-4683",
+        "fee": "yes",
+        "fridge": "yes",
+        "grades": "-4 - 12",
+        "level": "-1",
+        "max_age": "18",
+        "microwave_oven": "yes",
+        "min_age": "1",
+        "name": "Seneca Hill Private School",
+        "opening_hours": "Mo-Fr 07:00-18:00",
+        "operator:type": "private",
+        "oven": "yes",
+        "phone": "+1-647-237-8083",
+        "start_date": "1988",
+        "website": "https://www.senecahill.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3475732,
+          43.7319011
+        ]
+      },
+      "id": "node/3740785317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3855202957",
+        "amenity": "school",
+        "name": "Ahmadiyya Elementary School",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6367974,
+          43.6372616
+        ]
+      },
+      "id": "node/3855202957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4295671568",
+        "addr:city": "Toronto",
+        "addr:housenumber": "50",
+        "addr:postcode": "M5A 4B2",
+        "addr:street": "George Street South",
+        "amenity": "school",
+        "denomination": "catholic",
+        "fax": "+1-416-397-6057",
+        "isced:level": "1;2",
+        "name": "St. Michael Catholic School",
+        "operator": "Toronto Catholic District School Board",
+        "operator:short": "TCDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q405337",
+        "phone": "+1-416-393-5387",
+        "religion": "christian",
+        "school:language": "english",
+        "start_date": "1979-09-01",
+        "website": "http://stmichael.tcdsb.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3699556,
+          43.6478915
+        ]
+      },
+      "id": "node/4295671568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4332034938",
+        "amenity": "school",
+        "grades": "-3 - 6",
+        "grades:amount": "10",
+        "name": "The Laurel School",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3499602,
+          43.7514373
+        ]
+      },
+      "id": "node/4332034938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4335948191",
+        "addr:housenumber": "4600",
+        "addr:street": "Dundas Street West",
+        "amenity": "school",
+        "isced:level": "1;2",
+        "name": "Kingsway College School",
+        "operator:type": "private",
+        "phone": "+1-416-234-5073",
+        "website": "https://www.kcs.on.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5211954,
+          43.6571414
+        ]
+      },
+      "id": "node/4335948191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4367917910",
+        "addr:housenumber": "8450",
+        "addr:postcode": "L6T 4M9",
+        "addr:street": "Torbram Road",
+        "amenity": "school",
+        "email": "makki_ilc@hotmail.com",
+        "name": "Makki Islamic Learning Centre",
+        "name:en": "Makki Islamic Learning Centre",
+        "operator:type": "private",
+        "phone": "+1-647-478-8340",
+        "website": "https://www.bramptonmakkimasjid.com/services/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6907575,
+          43.7218892
+        ]
+      },
+      "id": "node/4367917910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4456479981",
+        "addr:city": "Toronto",
+        "addr:housenumber": "35",
+        "addr:street": "Prince Arthur Avenue",
+        "amenity": "school",
+        "name": "The Dragon Academy",
+        "operator:type": "private",
+        "wikidata": "Q7730837",
+        "wikipedia": "en:The Dragon Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3970427,
+          43.6692644
+        ]
+      },
+      "id": "node/4456479981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4551131817",
+        "addr:housenumber": "2200",
+        "addr:street": "South Sheridan Way",
+        "amenity": "school",
+        "name": "Islamic Society of North America High School",
+        "operator": "Islamic Society of North America Canada",
+        "operator:type": "private",
+        "phone": "+1-905-272-4303",
+        "religion": "muslim",
+        "short_name": "ISNA High School",
+        "website": "https://isnaschools.com/high-school/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6501662,
+          43.5199
+        ]
+      },
+      "id": "node/4551131817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5413471606",
+        "amenity": "school",
+        "name": "Royal Crown Academic School",
+        "operator:type": "private",
+        "url": "http://www.royalcrowncollege.com/",
+        "website": "https://www.royalcrownschool.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3926063,
+          43.7784321
+        ]
+      },
+      "id": "node/5413471606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5413474408",
+        "amenity": "school",
+        "name": "Bond Academy/Bond International School",
+        "operator:type": "private",
+        "website": "https://www.bondacademy.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2898992,
+          43.7565483
+        ]
+      },
+      "id": "node/5413474408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444147981",
+        "amenity": "school",
+        "name": "Westfield Secondary School",
+        "operator:type": "private",
+        "url": "http://westfieldeducation.com/",
+        "website": "http://westfieldsecondary.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3759105,
+          43.8417568
+        ]
+      },
+      "id": "node/5444147981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5702957701",
+        "amenity": "school",
+        "name": "FutureSkills High School",
+        "operator:type": "private",
+        "wikidata": "Q5510613",
+        "wikipedia": "en:FutureSkills High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4154067,
+          43.7806718
+        ]
+      },
+      "id": "node/5702957701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5813870310",
+        "addr:city": "Etobicoke",
+        "addr:housenumber": "2102",
+        "addr:postcode": "M9W 4K5",
+        "addr:street": "Kipling Avenue",
+        "amenity": "school",
+        "fee": "yes",
+        "name": "Irshad Institute",
+        "operator": "Sheikh Abdalla Jama",
+        "operator:type": "private",
+        "phone": "+1-416-551-4850",
+        "religion": "muslim",
+        "website": "http://irshadinstitute.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5697191,
+          43.7166984
+        ]
+      },
+      "id": "node/5813870310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6399214527",
+        "addr:city": "Toronto",
+        "addr:housenumber": "151",
+        "addr:postcode": "M4L 2Y1",
+        "addr:street": "Hiawatha Road",
+        "amenity": "school",
+        "fax": "+1-416-393-9553",
+        "isced:level": "1;2",
+        "name": "Equinox Holistic Alternative School",
+        "note": "Co-located with Roden Public School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-8274",
+        "school:language": "english",
+        "start_date": "2009-09-01",
+        "website": "https://www.tdsb.on.ca/schools/index.asp?schno=5903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3231747,
+          43.6739208
+        ]
+      },
+      "id": "node/6399214527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6416761331",
+        "amenity": "school",
+        "name": "Kensington Community School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4056356,
+          43.656363
+        ]
+      },
+      "id": "node/6416761331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6422118763",
+        "addr:housenumber": "394",
+        "addr:street": "Royal York Road",
+        "amenity": "school",
+        "name": "Oak Learners",
+        "operator:type": "private",
+        "phone": "+1-416-820-5233",
+        "website": "https://oaklearners.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4997552,
+          43.619025
+        ]
+      },
+      "id": "node/6422118763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7098473320",
+        "addr:city": "Mississauga",
+        "addr:housenumber": "2241",
+        "addr:street": "Mississauga Road",
+        "amenity": "school",
+        "name": "Holy Name of Mary College School",
+        "operator:type": "private",
+        "website": "https://www.holynameofmarycollegeschool.com/",
+        "wikidata": "Q5885833",
+        "wikipedia": "en:Holy Name of Mary College School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6380794,
+          43.542113
+        ]
+      },
+      "id": "node/7098473320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7098518923",
+        "addr:housenumber": "5751",
+        "addr:street": "Coopers Avenue",
+        "amenity": "school",
+        "name": "Iqra Islamic School",
+        "operator:type": "private",
+        "religion": "muslim",
+        "source": "Bing",
+        "website": "https://www.iqraislamicschool.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6587552,
+          43.6316296
+        ]
+      },
+      "id": "node/7098518923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7099001294",
+        "addr:city": "Toronto",
+        "addr:housenumber": "725",
+        "addr:postcode": "M5S 2R5",
+        "addr:province": "ON",
+        "addr:street": "Bathurst Street",
+        "amenity": "school",
+        "fax": "+1-416-393-0484",
+        "grades": "7-12",
+        "isced:level": "2",
+        "name": "ALPHA II Alternative School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-0501",
+        "school:language": "english",
+        "start_date": "2007-09-04",
+        "website": "https://schoolweb.tdsb.on.ca/alpha2/",
+        "wikidata": "Q16868911",
+        "wikipedia": "en:ALPHA Alternative School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4082858,
+          43.6630473
+        ]
+      },
+      "id": "node/7099001294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7099007329",
+        "addr:city": "Toronto",
+        "addr:housenumber": "301",
+        "addr:postcode": "M6G 3G9",
+        "addr:street": "Montrose Avenue",
+        "amenity": "school",
+        "fax": "+1-416-393-9729",
+        "isced:level": "2",
+        "name": "Delta Senior Alternative School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-9730",
+        "school:language": "english",
+        "start_date": "1983-09-01",
+        "website": "https://schoolweb.tdsb.on.ca/delta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4187656,
+          43.6583653
+        ]
+      },
+      "id": "node/7099007329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7102270358",
+        "addr:city": "Toronto",
+        "addr:housenumber": "570",
+        "addr:postcode": "M5T 1S9",
+        "addr:street": "Shaw Street",
+        "amenity": "school",
+        "fax": "+1-416-393-1214",
+        "isced:level": "2",
+        "name": "Horizon Alternative Senior School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-1298",
+        "school:language": "english",
+        "start_date": "1981-09-01",
+        "website": "http://horizonalternative.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4218064,
+          43.657459
+        ]
+      },
+      "id": "node/7102270358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7102270359",
+        "addr:city": "Toronto",
+        "addr:housenumber": "50",
+        "addr:postcode": "M6G 1T3",
+        "addr:street": "Essex Street",
+        "amenity": "school",
+        "check_date": "2024-05-05",
+        "fax": "+1-416-393-9608",
+        "isced:level": "1",
+        "name": "Hawthorne II Bilingual Alternative Junior School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-0727",
+        "school:language": "english",
+        "start_date": "1977-09-01",
+        "website": "http://www.hawthorne2bilingual.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4217718,
+          43.6683878
+        ]
+      },
+      "id": "node/7102270359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7102270360",
+        "addr:city": "Toronto",
+        "addr:housenumber": "108",
+        "addr:postcode": "M6J 3L2",
+        "addr:street": "Gladstone Avenue",
+        "amenity": "school",
+        "fax": "+1-416-393-0658",
+        "isced:level": "1",
+        "name": "The Grove Community School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-9150",
+        "school:language": "english",
+        "start_date": "2009-09-01",
+        "website": "https://www.tdsb.on.ca/schools/index.asp?schno=5904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4287623,
+          43.6458928
+        ]
+      },
+      "id": "node/7102270360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7102270361",
+        "addr:city": "Toronto",
+        "addr:housenumber": "38",
+        "addr:postcode": "M6K 1S9",
+        "addr:street": "Shirley Street",
+        "amenity": "school",
+        "fax": "+1-416-393-8707",
+        "isced:level": "2",
+        "name": "City View Alternative Senior School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-8708",
+        "school:language": "english",
+        "start_date": "1993-09-01",
+        "website": "https://schoolweb.tdsb.on.ca/cityview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4362835,
+          43.6486675
+        ]
+      },
+      "id": "node/7102270361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7102270362",
+        "addr:city": "Toronto",
+        "addr:housenumber": "99",
+        "addr:postcode": "M6P 2L5",
+        "addr:street": "Mountview Avenue",
+        "amenity": "school",
+        "fax": "+1-416-393-8200",
+        "isced:level": "1",
+        "name": "Mountview Alternative School Junior",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-9037",
+        "school:language": "english",
+        "start_date": "1982-09-01",
+        "website": "http://mountviewalternative.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4617643,
+          43.6571352
+        ]
+      },
+      "id": "node/7102270362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7102270363",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1430",
+        "addr:postcode": "M3M 2W9",
+        "addr:street": "Sheppard Avenue West",
+        "amenity": "school",
+        "fax": "+1-416-395-8047",
+        "isced:level": "1;2",
+        "name": "Africentric Alternative School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-395-5251",
+        "school:language": "english",
+        "start_date": "2009-09-01",
+        "website": "https://schoolweb.tdsb.on.ca/africentricschool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.488305,
+          43.7452763
+        ]
+      },
+      "id": "node/7102270363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7102270364",
+        "addr:city": "Toronto",
+        "addr:housenumber": "160",
+        "addr:postcode": "M6P 0A5",
+        "addr:street": "Glendonwynne Road",
+        "amenity": "school",
+        "fax": "+1-416-393-8496",
+        "isced:level": "3",
+        "name": "The Student School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-9639",
+        "school:language": "english",
+        "start_date": "1979-09-01",
+        "website": "http://www.thestudentschool.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4750852,
+          43.6566234
+        ]
+      },
+      "id": "node/7102270364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7102270365",
+        "addr:city": "Toronto",
+        "addr:housenumber": "146",
+        "addr:postcode": "M6P 3J7",
+        "addr:street": "Glendonwynne Road",
+        "amenity": "school",
+        "fax": "+1-416-393-0970",
+        "isced:level": "3",
+        "mascot": "Flames",
+        "name": "Ursula Franklin Academy",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-0430",
+        "school:language": "english",
+        "start_date": "1995-09-01",
+        "website": "https://www.ufacademy.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4740877,
+          43.6575152
+        ]
+      },
+      "id": "node/7102270365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7102270366",
+        "addr:city": "Toronto",
+        "addr:housenumber": "265",
+        "addr:postcode": "M6P 1R3",
+        "addr:street": "Annette Street",
+        "amenity": "school",
+        "isced:level": "1;2",
+        "name": "High Park Alternative Junior School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-9050",
+        "school:language": "english",
+        "start_date": "1981-09-01",
+        "website": "https://www.tdsb.on.ca/Find-your/Schools/schno/5340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4723851,
+          43.6614062
+        ]
+      },
+      "id": "node/7102270366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7102314752",
+        "addr:city": "Toronto",
+        "addr:housenumber": "33",
+        "addr:postcode": "M5S 2K2",
+        "addr:street": "Robert Street",
+        "amenity": "school",
+        "fax": "+1-416-393-0763",
+        "isced:level": "1",
+        "name": "da Vinci School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-8204",
+        "school:language": "english",
+        "start_date": "2009-09-08",
+        "website": "https://schoolweb.tdsb.on.ca/davincischool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4018052,
+          43.6590928
+        ]
+      },
+      "id": "node/7102314752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7102314753",
+        "addr:city": "Toronto",
+        "addr:housenumber": "96",
+        "addr:postcode": "M5T 1E4",
+        "addr:street": "Denison Avenue",
+        "amenity": "school",
+        "fax": "+1-416-393-1337",
+        "isced:level": "2",
+        "name": "Downtown Vocal Music Academy of Toronto",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-1340",
+        "school:language": "english",
+        "start_date": "2012-09-01",
+        "website": "https://schoolweb.tdsb.on.ca/vocalmusicacademyryerson/home.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4024087,
+          43.6512238
+        ]
+      },
+      "id": "node/7102314753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7103319722",
+        "addr:city": "North York",
+        "addr:housenumber": "425",
+        "addr:postcode": "M2R 2N1",
+        "addr:street": "Patricia Avenue",
+        "amenity": "school",
+        "isced:level": "3",
+        "name": "North West Year Round Alternative Centre",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-395-3160",
+        "school:language": "english",
+        "start_date": "2005-02-01",
+        "website": "https://www.tdsb.on.ca/MOSS/asp_apps/school_landing_page/index.asp?schno=3412&Status=L"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.441329,
+          43.7844096
+        ]
+      },
+      "id": "node/7103319722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7103345347",
+        "addr:city": "Toronto",
+        "addr:housenumber": "529",
+        "addr:postcode": "M4S 1J6",
+        "addr:street": "Vaughan Road",
+        "amenity": "school",
+        "fax": "+1-416-393-0569",
+        "isced:level": "1",
+        "name": "Davisville Junior Public School",
+        "note": "temporary location",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-0570",
+        "school:language": "english",
+        "website": "https://schoolweb.tdsb.on.ca/davisville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.436366,
+          43.6905038
+        ]
+      },
+      "id": "node/7103345347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7103345348",
+        "addr:city": "York",
+        "addr:housenumber": "529",
+        "addr:postcode": "M6C 2R1",
+        "addr:street": "Vaughan Road",
+        "amenity": "school",
+        "fax": "+1-416-393-0569",
+        "isced:level": "2",
+        "name": "Spectrum Alternative Senior School",
+        "note": "temporary location",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-9311",
+        "school:language": "english",
+        "start_date": "1978-09-01",
+        "website": "http://schools.tdsb.on.ca/spectrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4370422,
+          43.690826
+        ]
+      },
+      "id": "node/7103345348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7103519097",
+        "addr:city": "North York",
+        "addr:housenumber": "171",
+        "addr:postcode": "M2N 2V4",
+        "addr:street": "Avondale Avenue",
+        "amenity": "school",
+        "fax": "+1-416-395-4449",
+        "isced:level": "1;2",
+        "name": "Avondale Alternative Elementary School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-395-3130",
+        "school:language": "english",
+        "start_date": "1992-09-08",
+        "website": "https://schoolweb.tdsb.on.ca/avondale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4007872,
+          43.7593039
+        ]
+      },
+      "id": "node/7103519097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7103519112",
+        "addr:city": "Toronto",
+        "addr:housenumber": "250",
+        "addr:postcode": "M2N 6W3",
+        "addr:street": "Beecroft Road",
+        "amenity": "school",
+        "description": "Private school.",
+        "name": "Shining Through Centre",
+        "old_name": "Dempsey Brothers Hardware Store",
+        "operator:type": "private",
+        "phone": "+1-416-782-4816",
+        "source": "aerial imagery",
+        "website": "https://www.shiningthrough.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4169474,
+          43.7701021
+        ]
+      },
+      "id": "node/7103519112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7103772320",
+        "addr:city": "Toronto",
+        "addr:housenumber": "800",
+        "addr:postcode": "M4J 4B7",
+        "addr:street": "Greenwood Avenue",
+        "amenity": "school",
+        "fax": "+1-416-393-1516",
+        "isced:level": "3",
+        "name": "Greenwood Secondary School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-0744",
+        "school:language": "english",
+        "start_date": "1972-09-01",
+        "website": "http://greenwoodsecondary.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3337238,
+          43.683104
+        ]
+      },
+      "id": "node/7103772320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7103772321",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1",
+        "addr:postcode": "M4J 1G6",
+        "addr:street": "Hanson Street",
+        "amenity": "school",
+        "fax": "+1-416-393-1516",
+        "isced:level": "3",
+        "name": "School of Life Experience",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-0756",
+        "school:language": "english",
+        "start_date": "1982-09-01",
+        "website": "https://www.solealternative.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3235151,
+          43.6790012
+        ]
+      },
+      "id": "node/7103772321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7103787101",
+        "addr:city": "Toronto",
+        "addr:housenumber": "50",
+        "addr:postcode": "M4E 2Z5",
+        "addr:street": "Swanwick Avenue",
+        "amenity": "school",
+        "fax": "+1-416-393-1449",
+        "isced:level": "1",
+        "name": "Beaches Alternative Junior School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-393-1451",
+        "school:language": "english",
+        "start_date": "1976-09-01",
+        "website": "https://schoolweb.tdsb.on.ca/beachesalternative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.29912,
+          43.68261
+        ]
+      },
+      "id": "node/7103787101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7103798478",
+        "addr:city": "Toronto",
+        "addr:housenumber": "82",
+        "addr:postcode": "M4H 0A2",
+        "addr:street": "Thorncliffe Park Drive",
+        "amenity": "school",
+        "fax": "+1-416-396-3059",
+        "isced:level": "1",
+        "name": "Fraser Mustard Early Learning Academy",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-396-3050",
+        "school:language": "english",
+        "start_date": "2013-09-03",
+        "website": "https://schoolweb.tdsb.on.ca/frasermustard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3435246,
+          43.7054872
+        ]
+      },
+      "id": "node/7103798478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7108062464",
+        "addr:city": "Toronto",
+        "addr:housenumber": "330",
+        "addr:postcode": "M6H 3Y1",
+        "addr:street": "Lansdowne Avenue",
+        "amenity": "school",
+        "fax": "+1-416-532-5493",
+        "isced:level": "2;3",
+        "name": "La passerelle secondaire",
+        "operator": "Conseil scolaire Viamonde",
+        "operator:type": "public",
+        "operator:wikidata": "Q2994271",
+        "phone": "+1-416-532-6592",
+        "school:language": "french",
+        "start_date": "2013-09-01",
+        "website": "https://csviamonde.ca/nos-ecoles/trouver-une-ecole/fiche-ecole/ecole-secondaire-toronto-ouest/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.441326,
+          43.6527207
+        ]
+      },
+      "id": "node/7108062464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7108065615",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "35",
+        "addr:postcode": "M1T 2Z3",
+        "addr:street": "Glendower Circuit",
+        "amenity": "school",
+        "fax": "+1-416-396-6337",
+        "isced:level": "2",
+        "name": "Jean Augustine Girls' Leadership Academy",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-396-6335",
+        "school:language": "english",
+        "start_date": "2012-09-01",
+        "website": "https://schoolweb.tdsb.on.ca/jeanaugustine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3001533,
+          43.7947497
+        ]
+      },
+      "id": "node/7108065615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7108092021",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "145",
+        "addr:postcode": "M1E 1P5",
+        "addr:street": "Guildwood Parkway",
+        "amenity": "school",
+        "check_date": "2024-03-17",
+        "isced:level": "3",
+        "name": "Native Learning Centre East",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "school:language": "english",
+        "start_date": "2014-09-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1973066,
+          43.7466768
+        ]
+      },
+      "id": "node/7108092021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7108106148",
+        "addr:city": "Scarborough",
+        "addr:housenumber": "80",
+        "addr:postcode": "M1G 3B5",
+        "addr:street": "Slan Avenue",
+        "amenity": "school",
+        "isced:level": "2",
+        "name": "Ben Heppner Vocal Music Academy",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "phone": "+1-416-396-6305",
+        "school:language": "english",
+        "start_date": "2012-09-01",
+        "website": "https://schoolweb.tdsb.on.ca/benheppnervma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2151755,
+          43.7751281
+        ]
+      },
+      "id": "node/7108106148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7113185108",
+        "addr:city": "Thornhill",
+        "addr:housenumber": "130",
+        "addr:postcode": "L4J 8X9",
+        "addr:province": "Ontario",
+        "addr:street": "Racco Parkway",
+        "amenity": "school",
+        "name": "Everest Academy",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4756114,
+          43.8156657
+        ]
+      },
+      "id": "node/7113185108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7113185109",
+        "addr:city": "Thornhill",
+        "addr:housenumber": "130",
+        "addr:postcode": "L4J 8X9",
+        "addr:province": "Ontario",
+        "addr:street": "Racco Parkway",
+        "amenity": "school",
+        "name": "UMCA Rich Tree Academy",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4756012,
+          43.8161541
+        ]
+      },
+      "id": "node/7113185109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7431146528",
+        "amenity": "school",
+        "name": "Rutherford Private School",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.504955,
+          43.8358474
+        ]
+      },
+      "id": "node/7431146528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7557124942",
+        "amenity": "school",
+        "name": "Glen Cedar Montessori",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6075473,
+          43.8211148
+        ]
+      },
+      "id": "node/7557124942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7659648005",
+        "addr:floor": "2",
+        "amenity": "school",
+        "name": "Darwin International Academy",
+        "name:zh": "达尔文国际学院",
+        "operator:type": "private",
+        "website": "http://www.darwinacademy.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.339913,
+          43.8107909
+        ]
+      },
+      "id": "node/7659648005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7725077139",
+        "addr:city": "Toronto",
+        "addr:housenumber": "20",
+        "addr:street": "Brunel Court",
+        "amenity": "school",
+        "denomination": "catholic",
+        "isced:level": "1;2",
+        "name": "Bishop Macdonell Catholic Elementary School",
+        "operator": "Toronto Catholic District School Board",
+        "operator:short": "TCDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q405337",
+        "religion": "christian",
+        "school:language": "english",
+        "start_date": "2020-01-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3945306,
+          43.6390684
+        ]
+      },
+      "id": "node/7725077139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7725077140",
+        "addr:city": "Toronto",
+        "addr:housenumber": "20",
+        "addr:street": "Brunel Court",
+        "amenity": "school",
+        "isced:level": "1;2",
+        "name": "Jean Lumb Public School",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302",
+        "operator:wikipedia": "en:Toronto District School Board",
+        "school:language": "english",
+        "start_date": "2020-01-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3948348,
+          43.6397121
+        ]
+      },
+      "id": "node/7725077140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7725077141",
+        "amenity": "school",
+        "name": "Yorkland High School",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3013911,
+          43.8008577
+        ]
+      },
+      "id": "node/7725077141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7857202612",
+        "addr:housenumber": "2949",
+        "addr:street": "Bathurst Street",
+        "amenity": "school",
+        "name": "Bnos Bais Yaakov High School of Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4288554,
+          43.7165912
+        ]
+      },
+      "id": "node/7857202612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8042972669",
+        "addr:city": "Richmond Hill",
+        "addr:housenumber": "11",
+        "addr:postcode": "L4C 9W9",
+        "addr:province": "Ontario",
+        "addr:street": "Headdon Gate",
+        "addr:unit": "2,6,7",
+        "amenity": "school",
+        "grades": "JK-12",
+        "name": "The Prestige School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4572856,
+          43.8673348
+        ]
+      },
+      "id": "node/8042972669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8043328772",
+        "amenity": "school",
+        "name": "The Study Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3960616,
+          43.7015673
+        ]
+      },
+      "id": "node/8043328772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8082789926",
+        "addr:housenumber": "451",
+        "addr:street": "Ellesmere Road",
+        "amenity": "school",
+        "name": "Sathya Sai School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2964734,
+          43.7614686
+        ]
+      },
+      "id": "node/8082789926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8372728608",
+        "addr:city": "Richmond Hill",
+        "addr:housenumber": "155",
+        "addr:province": "Ontario",
+        "addr:street": "Red Maple Road",
+        "amenity": "school",
+        "name": "Red Maple Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.423064,
+          43.8442549
+        ]
+      },
+      "id": "node/8372728608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8372728609",
+        "amenity": "school",
+        "denomination": "catholic",
+        "name": "St. John Paul II Catholic School",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4227475,
+          43.844723
+        ]
+      },
+      "id": "node/8372728609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8590176815",
+        "amenity": "school",
+        "name": "Leaside Children’s House Montessori"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3672942,
+          43.7044156
+        ]
+      },
+      "id": "node/8590176815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8822745454",
+        "amenity": "school",
+        "name": "Roland & Romaine School of Dance",
+        "phone": "+14167821188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4311976,
+          43.7203145
+        ]
+      },
+      "id": "node/8822745454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8892230449",
+        "amenity": "school",
+        "name": "Kingsley School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5489846,
+          43.6390566
+        ]
+      },
+      "id": "node/8892230449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8961445021",
+        "addr:housenumber": "279",
+        "addr:street": "Burnhamthorpe Road",
+        "amenity": "school",
+        "name": "Olivet School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5446311,
+          43.6501143
+        ]
+      },
+      "id": "node/8961445021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9215038517",
+        "addr:housenumber": "1640",
+        "addr:street": "Avenue Road",
+        "amenity": "school",
+        "name": "Avro Academy",
+        "phone": "+1 647-352-6060",
+        "website": "https://www.avroacademy.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4173753,
+          43.7260881
+        ]
+      },
+      "id": "node/9215038517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9289182102",
+        "amenity": "school",
+        "name": "Blyth Academy Etobicoke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4862061,
+          43.6478643
+        ]
+      },
+      "id": "node/9289182102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657075420",
+        "addr:housenumber": "1494",
+        "addr:street": "Islington Avenue",
+        "amenity": "school",
+        "name": "Thorncrest Friends Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5313716,
+          43.6621528
+        ]
+      },
+      "id": "node/9657075420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900714432",
+        "amenity": "school",
+        "name": "The Mildenhall School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5077962,
+          43.6162384
+        ]
+      },
+      "id": "node/9900714432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9918144373",
+        "amenity": "school",
+        "name": "English as a Second Language Learning Centre",
+        "operator": "Dufferin-Peel Catholic District School Board",
+        "operator:short": "DPCDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q642703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6275176,
+          43.6030725
+        ]
+      },
+      "id": "node/9918144373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10056883684",
+        "addr:city": "Toronto",
+        "addr:housenumber": "1975",
+        "addr:postcode": "M4L 1J1",
+        "addr:province": "ON",
+        "addr:street": "Queen Street East",
+        "addr:unit": "B",
+        "amenity": "school",
+        "email": "office@boardwalkmontessori.com",
+        "fax": "+1-416-691-9046",
+        "name": "Boardwalk Montessori School",
+        "phone": "+1-416-691-6740",
+        "website": "https://www.boardwalkmontessori.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.300547,
+          43.6696341
+        ]
+      },
+      "id": "node/10056883684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10131020818",
+        "addr:city": "Toronto",
+        "addr:housenumber": "31",
+        "addr:postcode": "M1N 2V8",
+        "addr:province": "Ontario",
+        "addr:street": "Wood Glen Road",
+        "amenity": "school",
+        "name": "Avalon Montessori School - Casa School",
+        "website": "https://avalonmontessori.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.275483,
+          43.684151
+        ]
+      },
+      "id": "node/10131020818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10170308360",
+        "amenity": "school",
+        "name": "Filipok Russian Junior School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5296017,
+          43.6494229
+        ]
+      },
+      "id": "node/10170308360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10170308361",
+        "amenity": "school",
+        "name": "Filipok Russian Senior School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5288135,
+          43.6651242
+        ]
+      },
+      "id": "node/10170308361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10838386668",
+        "amenity": "school",
+        "name": "Bumblebee Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2974843,
+          43.679173
+        ]
+      },
+      "id": "node/10838386668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10873967822",
+        "amenity": "school",
+        "name": "Blyth Academy Port Credit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5679287,
+          43.5619876
+        ]
+      },
+      "id": "node/10873967822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10873982754",
+        "amenity": "school",
+        "name": "Blyth Academy Mississauga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5714593,
+          43.5653348
+        ]
+      },
+      "id": "node/10873982754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11093825947",
+        "amenity": "school",
+        "club": "computer",
+        "name": "Skill Samurai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3095435,
+          43.6677739
+        ]
+      },
+      "id": "node/11093825947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11163031924",
+        "amenity": "school",
+        "name": "Burnhamthorpe Adult Learning Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5615403,
+          43.6493113
+        ]
+      },
+      "id": "node/11163031924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11170257637",
+        "addr:postcode": "L6A 0T9",
+        "amenity": "school",
+        "name": "Angus Valley Montessori Vaughan",
+        "opening_hours": "Mo-Fr 07:00-18:00",
+        "phone": "+1 905 399 2867",
+        "website": "https://avmschools.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4856144,
+          43.8504749
+        ]
+      },
+      "id": "node/11170257637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11177376727",
+        "amenity": "school",
+        "name": "Danforth Collegiate and Technical Institute",
+        "operator": "Toronto District School Board",
+        "operator:short": "TDSB",
+        "operator:type": "public",
+        "operator:wikidata": "Q1189302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3340808,
+          43.6828268
+        ]
+      },
+      "id": "node/11177376727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11264945447",
+        "amenity": "school",
+        "name": "Western Heights Montessori Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6363537,
+          43.5161925
+        ]
+      },
+      "id": "node/11264945447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11265003415",
+        "amenity": "school",
+        "name": "White Oaks Montessori School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6333859,
+          43.5228378
+        ]
+      },
+      "id": "node/11265003415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11284990955",
+        "addr:housenumber": "2251B",
+        "addr:street": "Queen Street East",
+        "amenity": "school",
+        "name": "Sandpiper Montessori School",
+        "phone": "+1 647-283-4384",
+        "website": "http://sandpipermontesorri.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2943042,
+          43.6711091
+        ]
+      },
+      "id": "node/11284990955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11285021544",
+        "amenity": "school",
+        "name": "German International School Toronto",
+        "website": "https://www.gistonline.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5299424,
+          43.6496191
+        ]
+      },
+      "id": "node/11285021544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11571442528",
+        "amenity": "school",
+        "name": "Kingsway College School",
+        "religion": "none",
+        "website": "https://www.kcs.on.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4803172,
+          43.6237502
+        ]
+      },
+      "id": "node/11571442528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12326896497",
+        "addr:city": "Toronto",
+        "addr:housenumber": "500",
+        "addr:postcode": "M5V 3K8",
+        "addr:province": "Ontario",
+        "addr:street": "Queens Quay West",
+        "addr:unit": "105e",
+        "amenity": "school",
+        "name": "Milne Acting Studio",
+        "website": "https://milnestudio.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3951393,
+          43.6376721
+        ]
+      },
+      "id": "node/12326896497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12559166955",
+        "amenity": "school",
+        "isced:level": "1,2,3",
+        "min_age": "6",
+        "name": "Spirit of Math",
+        "operator": "Spirit of Math",
+        "operator:type": "private",
+        "website": "https://spiritofmath.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4064361,
+          43.6658963
+        ]
+      },
+      "id": "node/12559166955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12568750453",
+        "amenity": "school",
+        "name": "Westminster Classical Christian Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.451556,
+          43.6523564
+        ]
+      },
+      "id": "node/12568750453"
+    }
+  ]
+}
