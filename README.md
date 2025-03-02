@@ -99,7 +99,7 @@ To evaluate model effectiveness, we used the following key metrics:
 | KNN               | 0.75                         |
 | Linear Regression  | 0.68                         |
 
-*For a comprehensive report, please see our official [report-file-name](./report-file-name).*
+*For a comprehensive report, please see our official [Toronto_Housing](./Toronto-Housing.pdf).*
 
 
 ## Evaluation Criteria Breakdown
