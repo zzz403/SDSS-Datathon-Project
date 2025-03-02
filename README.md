@@ -1,17 +1,17 @@
-# **Datathon Project - HomeRadar**
+# Datathon Project - HomeRadar
 
 **Toronto Datathon 2024**  
 **Date:** 3/2/2025  
 **Team Name:** ByteBuilders  
 **Team Members:**  
-- Zhongze Zheng (August) Zheng [[GitHub](https://github.com/zzz403)]
+- Zhongze (August) Zheng [[GitHub](https://github.com/zzz403)]
 - Zhengyu (Joey) Wang [[GitHub](https://github.com/wzy403)]  
 - Zixiang (Terry) Huang [[GitHub](https://github.com/trrrrrrry)]  
 - Yuqing (Janice) Liu [[GitHub](https://github.com/LiuYuqing14)]
 
----
 
-## **Project Overview**
+
+## Project Overview
 
 - **Problem Statement:** The Toronto real estate market is highly dynamic, influenced by factors such as neighborhood amenities, public transit proximity, economic conditions, and market trends. However, predicting real estate prices accurately remains a significant challenge due to market complexity, missing data, and potential biases. The goal of this project is to develop a machine learning model that can accurately predict real estate prices across Toronto's diverse neighborhoods by analyzing various influencing factors.
 
@@ -33,9 +33,9 @@
     - Interactive Visualizations – Dynamic dashboards displaying real estate trends, pricing distribution, and geographic insights for better decision-making.
     - Scalable & Reproducible Model – Well-documented machine learning pipeline that can be expanded for future real estate analyses.
 
----
 
-## **Dataset & Data Processing**
+
+## Dataset & Data Processing
 
 - **Dataset Source:** The dataset used in this project includes real estate listings and market data for Toronto. The data comes from:
 
@@ -46,29 +46,29 @@
     - Handling Missing Values – Imputed missing values using median imputation for numerical features (e.g., building age, lot size) and mode imputation for categorical variables.
     - Feature Engineering – Created new variables such as distance to nearest subway station, crime rate per neighborhood, and property price per square foot.
     - Outlier Detection & Removal – Identified extreme property prices using IQR-based filtering to remove unrealistic listings.
----
 
-## **Installation & Setup**
 
-### **1️. Clone the repository**
+## Installation & Setup
+
+### 1️. Clone the repository
 ```sh
 git clone https://github.com/zzz403/SDSS-Datathon-Project.git
 cd datathon-project
 ```
 
-### **2️. Install dependencies**
+### 2️. Install dependencies
 ```sh
 pip install -r requirements.txt
 ```
 
-### **3️. Run the project**
+### 3️. Run the project
 ```sh
 streamlit run app.py
 ```
 
----
 
-## **Model & Algorithm**
+
+## Model & Algorithm
 
 - **Model Used:** We experimented with multiple models and selected the most effective one based on performance evaluation:
 
@@ -99,9 +99,9 @@ To evaluate model effectiveness, we used the following key metrics:
 | KNN               | 0.75                         |
 | Linear Regression  | 0.68                         |
 
----
 
-## **Evaluation Criteria Breakdown**
+
+## Evaluation Criteria Breakdown
 
 | Criterion    | Score (Out of 20%) | Explanation |
 |-------------|-------------------|-------------|
@@ -111,23 +111,14 @@ To evaluate model effectiveness, we used the following key metrics:
 | **Code Quality** | ✅ | Code is well-structured and documented |
 | **Executability** | ✅ | The project runs without major issues |
 
----
 
-## **📚 External Resources & Licensing**
-🔹 _List any external datasets, libraries, or tools you used._  
+## License
 
-- **Open-source Libraries:**
-  - `pandas` (BSD License)
-  - `numpy` (BSD License)
-  - `xgboost` (Apache License 2.0)
-  - `streamlit` (Apache License 2.0)
-  - `folium` (MIT License)
-  
-- **Data Sources:**
-  - [Dataset 1] (Include link)
-  - [Dataset 2] (Include link)
+This project is licensed under the GNU License. For more details, please refer to the [LICENSE](./LICENSE) file.
 
----
+Information regarding third-party licenses can be found in the [THIRD-PARTY](./THIRD-PARTY) file.
+
+
 
 ## **🛠 Challenges & Future Improvements**
 
