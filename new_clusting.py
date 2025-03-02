@@ -4,6 +4,8 @@ import json
 from sklearn.cluster import KMeans
 from sklearn.neighbors import NearestNeighbors
 from functools import reduce
+from shapely.geometry import Point, Polygon
+import ast
 
 def cal_dis(lat1, lon1, lat2, lon2):
     R = 6371  # 地球半径，单位：km
@@ -109,7 +111,25 @@ station_info = pd.DataFrame({
     'minStationDis': [v for v in station_temp.values()]
 })
 
-dfs = [df, highway_info, hospital_info, mall_info, park_info, police_info, school_info, station_info] 
+# 犯罪率
+crime_data = pd.read_csv("crime_data.csv")
+crime_info = {
+    'id_': [],
+    'crime_rate_per_100000_people': []
+}
+for row in crime_data.itertuples():
+    poly_coords = ast.literal_eval(row.latitude_longitude)
+    poly = Polygon(poly_coords)
+    for house in df.itertuples():
+        if pd.isna(house.lt) or pd.isna(house.lg):
+            continue
+        point = Point(house.lg, house.lt)
+        if poly.contains(point):
+            crime_info['id_'].append(house.id_)
+            crime_info['crime_rate_per_100000_people'].append(int(row.crime_rate_per_100000_people))
+crime_data = pd.DataFrame(crime_info)
+
+dfs = [df, highway_info, hospital_info, mall_info, park_info, police_info, school_info, station_info, crime_data] 
 
 result_df = reduce(lambda left, right: pd.merge(left, right, on='id_', how='outer'), dfs)
 

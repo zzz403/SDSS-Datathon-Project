@@ -15,19 +15,19 @@ for feature in crime_data["features"]:
     geometry = feature["geometry"]
 
     crime_info = {
-        "crime_rate (per 100000 people)": ((properties["ASSAULT_2024"] + properties["AUTOTHEFT_2024"] +
+        "crime_rate_per_100000_people": ((properties["ASSAULT_2024"] + properties["AUTOTHEFT_2024"] +
                                             properties["BIKETHEFT_2024"] + properties["BREAKENTER_2024"] +
                                             properties["HOMICIDE_2024"] + properties["ROBBERY_2024"] +
                         properties["SHOOTING_2024"] + properties["THEFTFROMMV_2024"] + properties["THEFTOVER_2024"])
                        / properties["POPULATION_2024"]) * 100000,
         "violent_crimes(homicide+shooting)": properties["HOMICIDE_2024"] + properties["SHOOTING_2024"],
-        "latitude_longitude": list(geometry["coordinates"]),
+        "latitude_longitude": geometry["coordinates"][0][0],
     }
 
     crime_records.append(crime_info)
 
 # Convert to DataFrame
 df_crime = pd.DataFrame(crime_records)
-
+df_crime.to_csv("crime_data.csv", index=False)
 # Display first few rows
 print(df_crime)
