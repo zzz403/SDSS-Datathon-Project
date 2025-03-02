@@ -7,9 +7,12 @@ import seaborn as sns
 from streamlit_folium import folium_static
 from sklearn.cluster import KMeans
 import plotly.express as px
+import geopandas as gpd
+from shapely.geometry import Point
 
 # --------------- 1. 加载数据 ----------------
 st.title("🏡 Toronto Real Estate Analysis Dashboard")
+
 
 # 读取CSV数据
 df = pd.read_csv("new_info.csv")
@@ -17,6 +20,28 @@ df = pd.read_csv("new_info.csv")
 # ---------------- 1.1 some data adding ----------------
 # 将区域列转换为整数类型
 df['region'] = pd.to_numeric(df["region"], errors='coerce')
+
+# 确保 `region` 是字符串格式
+df["region"] = df["region"].astype(str)
+
+# 读取设施数据
+facilities_df = pd.read_csv("all_facilities_data.csv")
+
+# 统计每个 region 的设施数量
+facility_counts = facilities_df.groupby("category")["node_id"].count().reset_index()
+facility_counts.columns = ["category", "count"]
+
+# 计算每个 region 到最近设施的平均距离
+facility_distance = facilities_df.groupby("category")["lat"].mean().reset_index()
+facility_distance.columns = ["category", "avg_lat"]
+
+# 设施数据加入 df
+df = df.merge(facility_counts, left_on="region", right_on="category", how="left")
+df = df.merge(facility_distance, left_on="region", right_on="category", how="left")
+
+# 处理 NaN（有些 `region` 可能缺少某些设施）
+df.fillna(0, inplace=True)
+
 
 # 处理NaN和inf：
 df["price"] = pd.to_numeric(df["price"], errors='coerce')  # 确保列是数值型，非数值转换为 NaN
@@ -57,6 +82,32 @@ df_filtered = df[
 
 # 显示筛选后的数据
 st.write(f"📊 {len(df_filtered)} properties match the selected filters.")
+
+# 设施数量条形图
+st.subheader("🏢 Facilities Count by Category")
+fig, ax = plt.subplots(figsize=(10, 5))
+sns.barplot(data=facility_counts, x="category", y="count", palette="coolwarm", ax=ax)
+ax.set_xlabel("Facility Type")
+ax.set_ylabel("Count")
+st.pyplot(fig)
+
+st.subheader("📍 Facility Locations on Map")
+
+m = folium.Map(location=[df["lt"].mean(), df["lg"].mean()], zoom_start=12)
+
+# 添加设施点
+for _, row in facilities_df.iterrows():
+    folium.CircleMarker(
+        location=[row["lat"], row["lon"]],
+        radius=5,
+        color="blue",
+        fill=True,
+        fill_opacity=0.7,
+        popup=row["category"],
+    ).add_to(m)
+
+folium_static(m)
+
 
 # --------------- 3. 地图可视化 ----------------
 st.subheader("📍 Real Estate Location Map")

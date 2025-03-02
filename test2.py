@@ -22,7 +22,7 @@ df[numeric_cols] = df[numeric_cols].fillna(df[numeric_cols].median())
 
 # 选择特征和目标变量
 # exposure,lt,lg
-features = ["DEN","size", "parking", "beds", 
+features = ["size", "parking", "beds", 
             "D_mkt", "building_age", "maint", 
             "exposure", "lt", "lg","minHighwayDis",
             "minMallDis","minParkDis",

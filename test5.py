@@ -49,11 +49,8 @@ features = ["DEN","size", "parking", "beds",
             "exposure", "lt", "lg","minHighwayDis",
             "minMallDis","minParkDis",
             "minPoliceDis","minSchoolDis","minStationDis",
-            "hasHospital","hasMall","hasPark","hasPolice"]
+            "hasHospital","hasMall","hasPark","hasPolice","crime_rate_per_100000_people"]
 
-# features = ["DEN","size", "parking", "beds", 
-#             "D_mkt", "building_age", "maint", 
-#             "exposure", "lt", "lg"]
 target = "price"
 
 X = df[features]
