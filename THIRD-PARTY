@@ -3,6 +3,8 @@
 This project includes third-party libraries distributed under the following licenses:  
 **MIT License, PSF License, BSD 3-Clause License, and Apache License 2.0.**  
 
+- **NOTE**: This project includes streamlit, which provides a NOTICE file located at `third_party_notices/NOTICE-streamlit.txt`.
+
 Full license texts are provided in the `third_party_licenses/` directory.
 
 ## List of Third-Party Components:
@@ -69,7 +71,7 @@ Full license texts are provided in the `third_party_licenses/` directory.
 
 
 ## Full Licenses:
-The full license texts of these dependencies can be found in the `third_party_licenses/` directory:
+The full license and notice texts of these dependencies can be found in the `third_party_licenses/` directory:
 ```
 third_party_licenses/
 ├── MIT-folium.txt
@@ -85,6 +87,7 @@ third_party_licenses/
 ├── BSD-3-Clause-shapely.txt
 ├── Apache-2.0-xgboost.txt
 └── Apache-2.0-streamlit.txt
+└── NOTICE-streamlit.txt
 ```
 
 
