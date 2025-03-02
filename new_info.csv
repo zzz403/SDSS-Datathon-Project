@@ -1,4 +1,4 @@
-id_,ward,beds,baths,DEN,size,parking,exposure,D_mkt,building_age,maint,price,lt,lg,region,hasHighway,hasHospital,hasMall,hasPark,hasPolice,hasSchool,hasStation
+id_,ward,beds,baths,DEN,size,parking,exposure,D_mkt,building_age,maint,price,lt,lg,region,minHighwayDis,minHospitalDis,minMallDis,minParkDis,minPoliceDis,minSchoolDis,minStationDis
 100681,W10,1.0,2,No,0-499 sqft,Yes,We,38.0,45,523.0,535000.0,43.66845834376327,-79.38789048480449,24,1.91,0.86,0.03,0.31,1.13,0.09,0.27
 100794,W10,1.0,1,No,0-499 sqft,N,S,17.0,0,628.0,466000.0,43.67229155763189,-79.3796347604845,8,1.12,1.21,0.14,0.7,1.91,0.73,0.26
 101031,W13,3.0,3,No,500-999 sqft,Yes,E,16.0,3,749.0,978000.0,43.64669007707301,-79.38382097163115,18,0.6,1.67,0.24,1.06,0.99,1.09,0.15

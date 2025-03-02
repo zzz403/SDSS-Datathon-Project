@@ -70,43 +70,43 @@ def get_nearest_region_info(file_name):
 highway_temp = get_nearest_region_info("highway")
 highway_info = pd.DataFrame({
     'id_': list(highway_temp.keys()), 
-    'hasHighway': [v for v in highway_temp.values()]
+    'minHighwayDis': [v for v in highway_temp.values()]
 })
 
 hospital_temp = get_nearest_region_info("hospital")
 hospital_info = pd.DataFrame({
     'id_': list(hospital_temp.keys()), 
-    'hasHospital': [v for v in hospital_temp.values()]
+    'minHospitalDis': [v for v in hospital_temp.values()]
 })
 
 mall_temp = get_nearest_region_info("mall+supermarket+marketplace")
 mall_info = pd.DataFrame({
     'id_': list(mall_temp.keys()),
-    'hasMall': [v for v in mall_temp.values()]
+    'minMallDis': [v for v in mall_temp.values()]
 })
 
 park_temp = get_nearest_region_info("park")
 park_info = pd.DataFrame({
     'id_': list(park_temp.keys()), 
-    'hasPark': [v for v in park_temp.values()]
+    'minParkDis': [v for v in park_temp.values()]
 })
 
 police_temp = get_nearest_region_info("police")
 police_info = pd.DataFrame({
     'id_': list(police_temp.keys()), 
-    'hasPolice': [v for v in police_temp.values()]
+    'minPoliceDis': [v for v in police_temp.values()]
 })
 
 school_temp = get_nearest_region_info("school")
 school_info = pd.DataFrame({
     'id_': list(school_temp.keys()), 
-    'hasSchool': [v for v in school_temp.values()]
+    'minSchoolDis': [v for v in school_temp.values()]
 })
 
 station_temp = get_nearest_region_info("station")
 station_info = pd.DataFrame({
     'id_': list(station_temp.keys()), 
-    'hasStation': [v for v in station_temp.values()]
+    'minStationDis': [v for v in station_temp.values()]
 })
 
 dfs = [df, highway_info, hospital_info, mall_info, park_info, police_info, school_info, station_info] 
