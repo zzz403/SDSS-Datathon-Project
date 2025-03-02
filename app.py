@@ -65,17 +65,27 @@ price_range = st.sidebar.slider("💰 Select Price Range (C$)", price_min, price
 # Number of bedrooms selection
 bedrooms = st.sidebar.multiselect("🛏️ Number of Bedrooms", df["beds"].unique(), default=df["beds"].unique())
 
+have_den = st.sidebar.selectbox("🚪 Has Den?", ["ALL","YES", "No"])
+
+have_par = st.sidebar.selectbox("🚗 Has Parking?", ["ALL","Yes", "N"])
+
+size_catagory = st.sidebar.selectbox("🏠 Size Category", ["ALL","0-499", "500-999 sqft", "1000-1499 sqft","1500-1999 sqft","2000-2499 sqft","2500-2999 sqft","3000-3499 sqft","4000+ sqft"])
+
 # Building age range selection
 age_min, age_max = int(df["building_age"].min()), int(df["building_age"].max())
 building_age_range = st.sidebar.slider("🏗️ Select Building Age", age_min, age_max, (age_min, age_max))
 
 # Apply filters
 df_filtered = df[
-    (df["region"].isin(selected_region)) &
-    (df["price"] >= price_range[0]) & (df["price"] <= price_range[1]) &
-    (df["beds"].isin(bedrooms)) &
-    (df["building_age"] >= building_age_range[0]) & (df["building_age"] <= building_age_range[1])
+    ((df["DEN"] == have_den) | (have_den == "ALL")) &
+    ((df["parking"] == have_par) | (have_par == "ALL")) &
+    ((df["size"] == size_catagory) | (size_catagory == "ALL")) &
+    (df["region"].isin(selected_region)) & 
+    (df["price"].between(price_range[0], price_range[1])) &
+    (df["beds"].isin(bedrooms)) & 
+    (df["building_age"].between(building_age_range[0], building_age_range[1]))  # 使用 between() 过滤建筑年龄
 ]
+
 
 # Display the filtered results
 st.write(f"📊 {len(df_filtered)} properties match the selected filters.")
