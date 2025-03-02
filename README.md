@@ -118,16 +118,16 @@ To evaluate model effectiveness, we used the following key metrics:
 | **Executability** | ✅ | The project runs without major issues |
 
 
-## **🛠 Challenges & Future Improvements**
+## Challenges & Future Improvements
 
-✔ **Challenges:**  
+**Challenges:**  
 - How to deal with a bunch of raw data in file to find the correlation between each variable and make a future prediction
 on the targeted data is the big problem we are facing. Therefor, the first thing we did was data cleaning and feature 
 engineering.
 - Which model is best fit? That's need a lot of accuracy comparison and evaluation on each model. We tried to use 
 different types of models，like supervised-learning and clustering model, and evaluate by different types of graph.
 
-✔ **Future Improvements:**  
+**Future Improvements:**  
 - To enhance model diversity and robustness, we propose using the Random Subspace Method for future adjustments, which 
 could mitigate imbalanced feature of our model and improve generalization.
 - The sample size of our model is small. To generate a more accurate prediction, work on higher size of sample can achieve 
