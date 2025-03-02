@@ -2,7 +2,7 @@ import json
 import pandas as pd
 
 # Load the JSON file
-json_file_path = "neighbourhood-crime-rates - 4326.geojson"
+json_file_path = "parameters/neighbourhood-crime-rates - 4326.geojson"
 with open(json_file_path, "r") as f:
     crime_data = json.load(f)
 
@@ -28,6 +28,6 @@ for feature in crime_data["features"]:
 
 # Convert to DataFrame
 df_crime = pd.DataFrame(crime_records)
-df_crime.to_csv("crime_data.csv", index=False)
+df_crime.to_csv("data/crime_data.csv", index=False)
 # Display first few rows
 print(df_crime)

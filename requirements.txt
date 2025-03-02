@@ -1,9 +1,13 @@
-streamlit
-numpy
 pandas
+numpy
+xgboost
+scikit-learn
+geopandas
+streamlit
 folium
 matplotlib
 seaborn
 streamlit-folium
-scikit-learn
 plotly
+shapely
+jsonschema
