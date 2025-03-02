@@ -101,7 +101,7 @@ To evaluate model effectiveness, we used the following key metrics:
 
 ---
 
-## **🏅 Evaluation Criteria Breakdown**
+## **Evaluation Criteria Breakdown**
 
 | Criterion    | Score (Out of 20%) | Explanation |
 |-------------|-------------------|-------------|
