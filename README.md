@@ -7,7 +7,7 @@
 - Zhongze Zheng (August) Zheng [[GitHub](https://github.com/zzz403)]
 - Zhengyu (Joey) Wang [[GitHub](https://github.com/wzy403)]  
 - Zixiang (Terry) Huang [[GitHub](https://github.com/trrrrrrry)]  
-- [Name 4]  
+- Yuqing (Janice) Liu [[GitHub](https://github.com/LiuYuqing14)]
 
 ---
 
@@ -132,10 +132,15 @@ To evaluate model effectiveness, we used the following key metrics:
 ## **🛠 Challenges & Future Improvements**
 
 ✔ **Challenges:**  
-- [Issue 1] (How you solved it)  
-- [Issue 2] (How you solved it)  
+- How to deal with a bunch of raw data in file to find the correlation between each variable and make a future prediction
+on the targeted data is the big problem we are facing. Therefor, the first thing we did was data cleaning and feature 
+engineering.
+- Which model is best fit? That's need a lot of accuracy comparison and evaluation on each model. We tried to use 
+different types of models，like supervised-learning and clustering model, and evaluate by different types of graph.
 
 ✔ **Future Improvements:**  
-- Add [Feature X]  
-- Improve [Metric Y]  
+- To enhance model diversity and robustness, we propose using the Random Subspace Method for future adjustments, which 
+could mitigate imbalanced feature of our model and improve generalization.
+- The sample size of our model is small. To generate a more accurate prediction, work on higher size of sample can achieve 
+our goal! 
 
