@@ -80,12 +80,12 @@ df_filtered = df[
 # Display the filtered results
 st.write(f"📊 {len(df_filtered)} properties match the selected filters.")
 
-# --------------- 3. 地图可视化 ----------------
+# --------------- 3. Map Visualization ----------------
 st.subheader("📍 Real Estate Location Map")
 
 m = folium.Map(location=[df["lt"].mean(), df["lg"].mean()], zoom_start=12)
 
-# 设定价格颜色编码
+# Set the price color
 low_price = df_filtered["price"].quantile(0.33)
 high_price = df_filtered["price"].quantile(0.66)
 
