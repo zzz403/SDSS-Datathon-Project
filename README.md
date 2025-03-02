@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ### 3️. Run the project
 ```sh
-streamlit run app.py
+streamlit run src/app.py
 ```
 
 
