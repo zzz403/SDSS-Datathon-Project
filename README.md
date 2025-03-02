@@ -41,6 +41,11 @@
 
     - Competition-provided dataset – Official Datathon dataset containing property details, pricing, and neighborhood features.
     - Publicly available datasets – Supplementary data sources such as:
+      - Overpass Turbo API (OpenStreetMap)
+OpenStreetMap. (n.d.). Overpass Turbo Query Service. Retrieved March 1, 2025, from https://overpass-turbo.eu/
+      - Toronto Open Data Portal – Neighbourhood Crime Rates
+      City of Toronto. (2025). Neighbourhood crime rates dataset. Toronto Open Data Portal. Retrieved March 1, 2025, from https://open.toronto.ca/dataset/neighbourhood-crime-rates/
+
 
 - **Data Cleaning & Preprocessing:** To ensure a high-quality dataset, we performed comprehensive data preprocessing, including:
     - Handling Missing Values – Imputed missing values using median imputation for numerical features (e.g., building age, lot size) and mode imputation for categorical variables.
