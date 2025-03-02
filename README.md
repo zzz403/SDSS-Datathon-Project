@@ -99,6 +99,7 @@ To evaluate model effectiveness, we used the following key metrics:
 | KNN               | 0.75                         |
 | Linear Regression  | 0.68                         |
 
+*For a comprehensive report, please see our official [report-file-name](./report-file-name).*
 
 
 ## Evaluation Criteria Breakdown
@@ -110,14 +111,6 @@ To evaluate model effectiveness, we used the following key metrics:
 | **Creativity** | ✅ | Unique approach and visualization |
 | **Code Quality** | ✅ | Code is well-structured and documented |
 | **Executability** | ✅ | The project runs without major issues |
-
-
-## License
-
-This project is licensed under the GNU License. For more details, please refer to the [LICENSE](./LICENSE) file.
-
-Information regarding third-party licenses can be found in the [THIRD-PARTY](./THIRD-PARTY) file.
-
 
 
 ## **🛠 Challenges & Future Improvements**
@@ -135,3 +128,9 @@ could mitigate imbalanced feature of our model and improve generalization.
 - The sample size of our model is small. To generate a more accurate prediction, work on higher size of sample can achieve 
 our goal! 
 
+
+## License
+
+This project is licensed under the GNU License. For more details, please refer to the [LICENSE](./LICENSE) file.
+
+Information regarding third-party licenses can be found in the [THIRD-PARTY](./THIRD-PARTY) file.
