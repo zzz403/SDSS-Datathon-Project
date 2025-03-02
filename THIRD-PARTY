@@ -1,0 +1,95 @@
+# THIRD-PARTY
+
+This project includes third-party libraries distributed under the following licenses:  
+**MIT License, PSF License, BSD 3-Clause License, and Apache License 2.0.**  
+
+Full license texts are provided in the `third_party_licenses/` directory.
+
+## List of Third-Party Components:
+
+### MIT License
+- **folium**  
+  Repository: https://github.com/python-visualization/folium  
+  License: MIT License  
+
+- **streamlit-folium**  
+  Repository: https://github.com/randyzwitch/streamlit-folium  
+  License: MIT License  
+
+- **plotly**  
+  Repository: https://github.com/plotly/plotly.py  
+  License: MIT License  
+
+- **jsonschema**  
+  Repository: https://github.com/python-jsonschema/jsonschema  
+  License: MIT License  
+
+### PSF License
+- **matplotlib**  
+  Repository: https://github.com/matplotlib/matplotlib  
+  License: Python Software Foundation License (PSF)  
+
+
+### BSD 3-Clause License
+- **pandas**  
+  Repository: https://github.com/pandas-dev/pandas  
+  License: BSD 3-Clause License  
+
+- **numpy**  
+  Repository: https://github.com/numpy/numpy  
+  License: BSD 3-Clause License  
+
+- **scikit-learn**  
+  Repository: https://github.com/scikit-learn/scikit-learn  
+  License: BSD 3-Clause License  
+
+- **geopandas**  
+  Repository: https://github.com/geopandas/geopandas  
+  License: BSD 3-Clause License  
+
+- **seaborn**  
+  Repository: https://github.com/mwaskom/seaborn  
+  License: BSD 3-Clause License  
+
+- **shapely**  
+  Repository: https://github.com/shapely/shapely  
+  License: BSD 3-Clause License  
+
+
+
+### Apache License 2.0
+- **xgboost**  
+  Repository: https://github.com/dmlc/xgboost  
+  License: Apache License 2.0  
+
+- **streamlit**  
+  Repository: https://github.com/streamlit/streamlit  
+  License: Apache License 2.0  
+
+
+
+## Full Licenses:
+The full license texts of these dependencies can be found in the `third_party_licenses/` directory:
+```
+third_party_licenses/
+├── MIT-folium.txt
+├── MIT-streamlit-folium.txt
+├── MIT-plotly.txt
+├── MIT-jsonschema.txt
+├── PSF-matplotlib.txt
+├── BSD-3-Clause-pandas.txt
+├── BSD-3-Clause-numpy.txt
+├── BSD-3-Clause-scikit-learn.txt
+├── BSD-3-Clause-geopandas.txt
+├── BSD-3-Clause-seaborn.txt
+├── BSD-3-Clause-shapely.txt
+├── Apache-2.0-xgboost.txt
+└── Apache-2.0-streamlit.txt
+```
+
+
+
+## Notes:
+- This file is provided for informational and compliance purposes.
+- All third-party components retain their respective licenses and copyright.
+- Do not remove or modify original license notices when redistributing.
