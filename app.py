@@ -12,22 +12,11 @@ import plotly.express as px
 st.title("🏡 Toronto Real Estate Analysis Dashboard")
 
 # 读取CSV数据
-df = pd.read_csv("real-estate-data.csv")
+df = pd.read_csv("new_info.csv")
 
 # ---------------- 1.1 some data adding ----------------
-
-# 选择分类区域的数量
-num_clusters = 25  # 你可以调整这个数字来控制区域的数量
-
-# 只使用经纬度进行聚类
-coords = df[['lt', 'lg']].dropna()  # 移除 NaN 值，防止错误
-
-# 进行 KMeans 聚类
-kmeans = KMeans(n_clusters=num_clusters, random_state=42, n_init=10)
-df.loc[coords.index, 'region'] = kmeans.fit_predict(coords)
-
 # 将区域列转换为整数类型
-df['region'] = df['region'].astype(int)
+df['region'] = pd.to_numeric(df["region"], errors='coerce')
 
 # 处理NaN和inf：
 df["price"] = pd.to_numeric(df["price"], errors='coerce')  # 确保列是数值型，非数值转换为 NaN
@@ -48,9 +37,6 @@ st.sidebar.header("🔍 Filter Options")
 # region
 selected_region = st.sidebar.multiselect("🗺️ Select Regions", df["region"].unique(), default=df["region"].unique())
 
-# 选区（ward）
-selected_wards = st.sidebar.multiselect("🏙️ Select Wards", df["ward"].unique(), default=df["ward"].unique())
-
 # 价格范围
 price_range = st.sidebar.slider("💰 Select Price Range (C$)", price_min, price_max, (price_min, price_max))
 
@@ -63,7 +49,6 @@ building_age_range = st.sidebar.slider("🏗️ Select Building Age", age_min, a
 
 # 应用筛选器
 df_filtered = df[
-    (df["ward"].isin(selected_wards)) &
     (df["region"].isin(selected_region)) &
     (df["price"] >= price_range[0]) & (df["price"] <= price_range[1]) &
     (df["beds"].isin(bedrooms)) &
@@ -116,11 +101,11 @@ ax.set_xlabel("Building Age (Years)")
 ax.set_ylabel("Price (C$)")
 st.pyplot(fig)
 
-# 不同选区（ward）房价均值
-st.subheader("🏙️ Average Price by Ward")
+# 不同选区（region）房价均值
+st.subheader("🏙️ Average Price by Region")
 fig, ax = plt.subplots()
-sns.barplot(data=df_filtered, x="ward", y="price", ci=None, palette="Blues", ax=ax)
-ax.set_xlabel("Ward")
+sns.barplot(data=df_filtered, x="region", y="price", ci=None, palette="Blues", ax=ax)
+ax.set_xlabel("region")
 ax.set_ylabel("Average Price (C$)")
 st.pyplot(fig)
 
