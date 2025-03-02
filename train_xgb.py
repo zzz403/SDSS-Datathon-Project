@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import model as xgb
+import xgboost as xgb
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error, r2_score
 from sklearn.preprocessing import LabelEncoder
@@ -8,7 +8,7 @@ from sklearn.preprocessing import LabelEncoder
 # Load dataset
 df = pd.read_csv("data/new_info.csv")
 
-# Shuffle the dataset
+# Shuffle the dataset if needed
 df = df.sample(frac=1).reset_index(drop=True)
 
 # Process categorical variables (convert to numerical values)
